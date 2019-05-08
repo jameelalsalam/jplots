@@ -1,0 +1,1361 @@
+"Year","fuel","scenario","value"
+2050,"Petroleum","Reference case MMmt CO2",2111.038086
+2049,"Petroleum","Reference case MMmt CO2",2101.270264
+2048,"Petroleum","Reference case MMmt CO2",2094.972656
+2047,"Petroleum","Reference case MMmt CO2",2083.395264
+2046,"Petroleum","Reference case MMmt CO2",2070.833008
+2045,"Petroleum","Reference case MMmt CO2",2059.556396
+2044,"Petroleum","Reference case MMmt CO2",2051.347412
+2043,"Petroleum","Reference case MMmt CO2",2044.308716
+2042,"Petroleum","Reference case MMmt CO2",2035.827393
+2041,"Petroleum","Reference case MMmt CO2",2032.776855
+2040,"Petroleum","Reference case MMmt CO2",2029.045044
+2039,"Petroleum","Reference case MMmt CO2",2026.537231
+2038,"Petroleum","Reference case MMmt CO2",2026.118896
+2037,"Petroleum","Reference case MMmt CO2",2026.019043
+2036,"Petroleum","Reference case MMmt CO2",2024.073853
+2035,"Petroleum","Reference case MMmt CO2",2030.066284
+2034,"Petroleum","Reference case MMmt CO2",2042.553467
+2033,"Petroleum","Reference case MMmt CO2",2050.004883
+2032,"Petroleum","Reference case MMmt CO2",2063.022949
+2031,"Petroleum","Reference case MMmt CO2",2076.007812
+2030,"Petroleum","Reference case MMmt CO2",2088.672607
+2029,"Petroleum","Reference case MMmt CO2",2108.316162
+2028,"Petroleum","Reference case MMmt CO2",2128.266602
+2027,"Petroleum","Reference case MMmt CO2",2143.183105
+2026,"Petroleum","Reference case MMmt CO2",2164.428711
+2025,"Petroleum","Reference case MMmt CO2",2187.198486
+2024,"Petroleum","Reference case MMmt CO2",2215.989258
+2023,"Petroleum","Reference case MMmt CO2",2247.711182
+2022,"Petroleum","Reference case MMmt CO2",2277.028076
+2021,"Petroleum","Reference case MMmt CO2",2293.691406
+2020,"Petroleum","Reference case MMmt CO2",2330.301758
+2019,"Petroleum","Reference case MMmt CO2",2401.866211
+2018,"Petroleum","Reference case MMmt CO2",2392.910889
+2017,"Petroleum","Reference case MMmt CO2",2343.404297
+2050,"Petroleum","High economic growth MMmt CO2",2323.050293
+2049,"Petroleum","High economic growth MMmt CO2",2304.187256
+2048,"Petroleum","High economic growth MMmt CO2",2287.669189
+2047,"Petroleum","High economic growth MMmt CO2",2272.961182
+2046,"Petroleum","High economic growth MMmt CO2",2256.731201
+2045,"Petroleum","High economic growth MMmt CO2",2243.867676
+2044,"Petroleum","High economic growth MMmt CO2",2231.381104
+2043,"Petroleum","High economic growth MMmt CO2",2212.614014
+2042,"Petroleum","High economic growth MMmt CO2",2196.083008
+2041,"Petroleum","High economic growth MMmt CO2",2186.59668
+2040,"Petroleum","High economic growth MMmt CO2",2170.695557
+2039,"Petroleum","High economic growth MMmt CO2",2161.6875
+2038,"Petroleum","High economic growth MMmt CO2",2154.52417
+2037,"Petroleum","High economic growth MMmt CO2",2143.04248
+2036,"Petroleum","High economic growth MMmt CO2",2131.351318
+2035,"Petroleum","High economic growth MMmt CO2",2125.146973
+2034,"Petroleum","High economic growth MMmt CO2",2125.601318
+2033,"Petroleum","High economic growth MMmt CO2",2132.278564
+2032,"Petroleum","High economic growth MMmt CO2",2135.171143
+2031,"Petroleum","High economic growth MMmt CO2",2140.409912
+2030,"Petroleum","High economic growth MMmt CO2",2146.710938
+2029,"Petroleum","High economic growth MMmt CO2",2164.602783
+2028,"Petroleum","High economic growth MMmt CO2",2177.749268
+2027,"Petroleum","High economic growth MMmt CO2",2187.439941
+2026,"Petroleum","High economic growth MMmt CO2",2206.276367
+2025,"Petroleum","High economic growth MMmt CO2",2226.107422
+2024,"Petroleum","High economic growth MMmt CO2",2247.474609
+2023,"Petroleum","High economic growth MMmt CO2",2274.163086
+2022,"Petroleum","High economic growth MMmt CO2",2301.01416
+2021,"Petroleum","High economic growth MMmt CO2",2310.754639
+2020,"Petroleum","High economic growth MMmt CO2",2340.601562
+2019,"Petroleum","High economic growth MMmt CO2",2412.393799
+2018,"Petroleum","High economic growth MMmt CO2",2392.975098
+2017,"Petroleum","High economic growth MMmt CO2",2343.404297
+2050,"Petroleum","Low economic growth MMmt CO2",1842.403442
+2049,"Petroleum","Low economic growth MMmt CO2",1841.97937
+2048,"Petroleum","Low economic growth MMmt CO2",1843.94104
+2047,"Petroleum","Low economic growth MMmt CO2",1843.865967
+2046,"Petroleum","Low economic growth MMmt CO2",1845.759888
+2045,"Petroleum","Low economic growth MMmt CO2",1852.266602
+2044,"Petroleum","Low economic growth MMmt CO2",1854.693237
+2043,"Petroleum","Low economic growth MMmt CO2",1862.021851
+2042,"Petroleum","Low economic growth MMmt CO2",1863.733643
+2041,"Petroleum","Low economic growth MMmt CO2",1872.098755
+2040,"Petroleum","Low economic growth MMmt CO2",1881.159668
+2039,"Petroleum","Low economic growth MMmt CO2",1886.671021
+2038,"Petroleum","Low economic growth MMmt CO2",1895.23938
+2037,"Petroleum","Low economic growth MMmt CO2",1904.196045
+2036,"Petroleum","Low economic growth MMmt CO2",1917.071167
+2035,"Petroleum","Low economic growth MMmt CO2",1926.925659
+2034,"Petroleum","Low economic growth MMmt CO2",1944.142944
+2033,"Petroleum","Low economic growth MMmt CO2",1953.672119
+2032,"Petroleum","Low economic growth MMmt CO2",1978.170898
+2031,"Petroleum","Low economic growth MMmt CO2",1995.921509
+2030,"Petroleum","Low economic growth MMmt CO2",2014.816895
+2029,"Petroleum","Low economic growth MMmt CO2",2036.845703
+2028,"Petroleum","Low economic growth MMmt CO2",2058.835938
+2027,"Petroleum","Low economic growth MMmt CO2",2085.313965
+2026,"Petroleum","Low economic growth MMmt CO2",2109.186035
+2025,"Petroleum","Low economic growth MMmt CO2",2141.671387
+2024,"Petroleum","Low economic growth MMmt CO2",2173.207764
+2023,"Petroleum","Low economic growth MMmt CO2",2210.153076
+2022,"Petroleum","Low economic growth MMmt CO2",2249.186768
+2021,"Petroleum","Low economic growth MMmt CO2",2268.581543
+2020,"Petroleum","Low economic growth MMmt CO2",2318.098145
+2019,"Petroleum","Low economic growth MMmt CO2",2409.175049
+2018,"Petroleum","Low economic growth MMmt CO2",2392.932373
+2017,"Petroleum","Low economic growth MMmt CO2",2343.404297
+2050,"Petroleum","High oil price MMmt CO2",1787.581055
+2049,"Petroleum","High oil price MMmt CO2",1782.496094
+2048,"Petroleum","High oil price MMmt CO2",1780.912354
+2047,"Petroleum","High oil price MMmt CO2",1781.072266
+2046,"Petroleum","High oil price MMmt CO2",1781.929932
+2045,"Petroleum","High oil price MMmt CO2",1780.810425
+2044,"Petroleum","High oil price MMmt CO2",1784.747192
+2043,"Petroleum","High oil price MMmt CO2",1788.572876
+2042,"Petroleum","High oil price MMmt CO2",1795.519897
+2041,"Petroleum","High oil price MMmt CO2",1801.485107
+2040,"Petroleum","High oil price MMmt CO2",1809.134888
+2039,"Petroleum","High oil price MMmt CO2",1816.755249
+2038,"Petroleum","High oil price MMmt CO2",1825.314087
+2037,"Petroleum","High oil price MMmt CO2",1833.847534
+2036,"Petroleum","High oil price MMmt CO2",1841.53125
+2035,"Petroleum","High oil price MMmt CO2",1851.160034
+2034,"Petroleum","High oil price MMmt CO2",1863.084473
+2033,"Petroleum","High oil price MMmt CO2",1877.836426
+2032,"Petroleum","High oil price MMmt CO2",1885.128784
+2031,"Petroleum","High oil price MMmt CO2",1896.899414
+2030,"Petroleum","High oil price MMmt CO2",1912.287354
+2029,"Petroleum","High oil price MMmt CO2",1936.022095
+2028,"Petroleum","High oil price MMmt CO2",1966.535034
+2027,"Petroleum","High oil price MMmt CO2",2000.977295
+2026,"Petroleum","High oil price MMmt CO2",2045.72229
+2025,"Petroleum","High oil price MMmt CO2",2085.057617
+2024,"Petroleum","High oil price MMmt CO2",2130.633057
+2023,"Petroleum","High oil price MMmt CO2",2175.592041
+2022,"Petroleum","High oil price MMmt CO2",2217.069092
+2021,"Petroleum","High oil price MMmt CO2",2246.203613
+2020,"Petroleum","High oil price MMmt CO2",2300.873535
+2019,"Petroleum","High oil price MMmt CO2",2387.123779
+2018,"Petroleum","High oil price MMmt CO2",2393.5625
+2017,"Petroleum","High oil price MMmt CO2",2343.404297
+2050,"Petroleum","Low oil price MMmt CO2",2477.993164
+2049,"Petroleum","Low oil price MMmt CO2",2445.159424
+2048,"Petroleum","Low oil price MMmt CO2",2427.133057
+2047,"Petroleum","Low oil price MMmt CO2",2417.899658
+2046,"Petroleum","Low oil price MMmt CO2",2392.824951
+2045,"Petroleum","Low oil price MMmt CO2",2369.420898
+2044,"Petroleum","Low oil price MMmt CO2",2340.540283
+2043,"Petroleum","Low oil price MMmt CO2",2321.420166
+2042,"Petroleum","Low oil price MMmt CO2",2302.953369
+2041,"Petroleum","Low oil price MMmt CO2",2283.201172
+2040,"Petroleum","Low oil price MMmt CO2",2267.23999
+2039,"Petroleum","Low oil price MMmt CO2",2253.491699
+2038,"Petroleum","Low oil price MMmt CO2",2247.580566
+2037,"Petroleum","Low oil price MMmt CO2",2226.47168
+2036,"Petroleum","Low oil price MMmt CO2",2219.327881
+2035,"Petroleum","Low oil price MMmt CO2",2212.935303
+2034,"Petroleum","Low oil price MMmt CO2",2209.895996
+2033,"Petroleum","Low oil price MMmt CO2",2209.150635
+2032,"Petroleum","Low oil price MMmt CO2",2211.380127
+2031,"Petroleum","Low oil price MMmt CO2",2210.44043
+2030,"Petroleum","Low oil price MMmt CO2",2213.174072
+2029,"Petroleum","Low oil price MMmt CO2",2219.368408
+2028,"Petroleum","Low oil price MMmt CO2",2223.843018
+2027,"Petroleum","Low oil price MMmt CO2",2226.170166
+2026,"Petroleum","Low oil price MMmt CO2",2237.725098
+2025,"Petroleum","Low oil price MMmt CO2",2243.859863
+2024,"Petroleum","Low oil price MMmt CO2",2261.074463
+2023,"Petroleum","Low oil price MMmt CO2",2283.128418
+2022,"Petroleum","Low oil price MMmt CO2",2310.48291
+2021,"Petroleum","Low oil price MMmt CO2",2326.813232
+2020,"Petroleum","Low oil price MMmt CO2",2357.296631
+2019,"Petroleum","Low oil price MMmt CO2",2417.830811
+2018,"Petroleum","Low oil price MMmt CO2",2393.030273
+2017,"Petroleum","Low oil price MMmt CO2",2343.404297
+2050,"Petroleum","High oil and gas resource and technology MMmt CO2",2150.021484
+2049,"Petroleum","High oil and gas resource and technology MMmt CO2",2137.215576
+2048,"Petroleum","High oil and gas resource and technology MMmt CO2",2128.506592
+2047,"Petroleum","High oil and gas resource and technology MMmt CO2",2118.54541
+2046,"Petroleum","High oil and gas resource and technology MMmt CO2",2107.669189
+2045,"Petroleum","High oil and gas resource and technology MMmt CO2",2094.077637
+2044,"Petroleum","High oil and gas resource and technology MMmt CO2",2082.475098
+2043,"Petroleum","High oil and gas resource and technology MMmt CO2",2070.536865
+2042,"Petroleum","High oil and gas resource and technology MMmt CO2",2060.936768
+2041,"Petroleum","High oil and gas resource and technology MMmt CO2",2055.244141
+2040,"Petroleum","High oil and gas resource and technology MMmt CO2",2050.628418
+2039,"Petroleum","High oil and gas resource and technology MMmt CO2",2050.355469
+2038,"Petroleum","High oil and gas resource and technology MMmt CO2",2049.10376
+2037,"Petroleum","High oil and gas resource and technology MMmt CO2",2049.60376
+2036,"Petroleum","High oil and gas resource and technology MMmt CO2",2049.33374
+2035,"Petroleum","High oil and gas resource and technology MMmt CO2",2052.427979
+2034,"Petroleum","High oil and gas resource and technology MMmt CO2",2059.842773
+2033,"Petroleum","High oil and gas resource and technology MMmt CO2",2069.614746
+2032,"Petroleum","High oil and gas resource and technology MMmt CO2",2079.814453
+2031,"Petroleum","High oil and gas resource and technology MMmt CO2",2092.264648
+2030,"Petroleum","High oil and gas resource and technology MMmt CO2",2102.585449
+2029,"Petroleum","High oil and gas resource and technology MMmt CO2",2114.170654
+2028,"Petroleum","High oil and gas resource and technology MMmt CO2",2129.26416
+2027,"Petroleum","High oil and gas resource and technology MMmt CO2",2148.187012
+2026,"Petroleum","High oil and gas resource and technology MMmt CO2",2166.121826
+2025,"Petroleum","High oil and gas resource and technology MMmt CO2",2195.633545
+2024,"Petroleum","High oil and gas resource and technology MMmt CO2",2223.416016
+2023,"Petroleum","High oil and gas resource and technology MMmt CO2",2254.881104
+2022,"Petroleum","High oil and gas resource and technology MMmt CO2",2285.5271
+2021,"Petroleum","High oil and gas resource and technology MMmt CO2",2296.459229
+2020,"Petroleum","High oil and gas resource and technology MMmt CO2",2330.915039
+2019,"Petroleum","High oil and gas resource and technology MMmt CO2",2411.699951
+2018,"Petroleum","High oil and gas resource and technology MMmt CO2",2392.949219
+2017,"Petroleum","High oil and gas resource and technology MMmt CO2",2343.404297
+2050,"Petroleum","Low oil and gas resource and technology MMmt CO2",2092.652832
+2049,"Petroleum","Low oil and gas resource and technology MMmt CO2",2084.193359
+2048,"Petroleum","Low oil and gas resource and technology MMmt CO2",2073.881348
+2047,"Petroleum","Low oil and gas resource and technology MMmt CO2",2061.18042
+2046,"Petroleum","Low oil and gas resource and technology MMmt CO2",2051.560059
+2045,"Petroleum","Low oil and gas resource and technology MMmt CO2",2041.917236
+2044,"Petroleum","Low oil and gas resource and technology MMmt CO2",2034.752686
+2043,"Petroleum","Low oil and gas resource and technology MMmt CO2",2027.857666
+2042,"Petroleum","Low oil and gas resource and technology MMmt CO2",2021.797119
+2041,"Petroleum","Low oil and gas resource and technology MMmt CO2",2018.834839
+2040,"Petroleum","Low oil and gas resource and technology MMmt CO2",2017.481201
+2039,"Petroleum","Low oil and gas resource and technology MMmt CO2",2018.688599
+2038,"Petroleum","Low oil and gas resource and technology MMmt CO2",2022.966187
+2037,"Petroleum","Low oil and gas resource and technology MMmt CO2",2022.920532
+2036,"Petroleum","Low oil and gas resource and technology MMmt CO2",2022.758545
+2035,"Petroleum","Low oil and gas resource and technology MMmt CO2",2024.734985
+2034,"Petroleum","Low oil and gas resource and technology MMmt CO2",2038.77417
+2033,"Petroleum","Low oil and gas resource and technology MMmt CO2",2048.672119
+2032,"Petroleum","Low oil and gas resource and technology MMmt CO2",2060.798096
+2031,"Petroleum","Low oil and gas resource and technology MMmt CO2",2072.547852
+2030,"Petroleum","Low oil and gas resource and technology MMmt CO2",2087.530273
+2029,"Petroleum","Low oil and gas resource and technology MMmt CO2",2101.794678
+2028,"Petroleum","Low oil and gas resource and technology MMmt CO2",2122.757324
+2027,"Petroleum","Low oil and gas resource and technology MMmt CO2",2138.553955
+2026,"Petroleum","Low oil and gas resource and technology MMmt CO2",2160.956055
+2025,"Petroleum","Low oil and gas resource and technology MMmt CO2",2186.244629
+2024,"Petroleum","Low oil and gas resource and technology MMmt CO2",2214.817627
+2023,"Petroleum","Low oil and gas resource and technology MMmt CO2",2246.893311
+2022,"Petroleum","Low oil and gas resource and technology MMmt CO2",2277.982666
+2021,"Petroleum","Low oil and gas resource and technology MMmt CO2",2291.668945
+2020,"Petroleum","Low oil and gas resource and technology MMmt CO2",2326.234375
+2019,"Petroleum","Low oil and gas resource and technology MMmt CO2",2407.993652
+2018,"Petroleum","Low oil and gas resource and technology MMmt CO2",2393.233887
+2017,"Petroleum","Low oil and gas resource and technology MMmt CO2",2343.404297
+2050,"Petroleum","AEO2018 without Clean Power Plan MMmt CO2",2155.743652
+2049,"Petroleum","AEO2018 without Clean Power Plan MMmt CO2",2142.724609
+2048,"Petroleum","AEO2018 without Clean Power Plan MMmt CO2",2129.540283
+2047,"Petroleum","AEO2018 without Clean Power Plan MMmt CO2",2116.541748
+2046,"Petroleum","AEO2018 without Clean Power Plan MMmt CO2",2106.017578
+2045,"Petroleum","AEO2018 without Clean Power Plan MMmt CO2",2097.693359
+2044,"Petroleum","AEO2018 without Clean Power Plan MMmt CO2",2091.597412
+2043,"Petroleum","AEO2018 without Clean Power Plan MMmt CO2",2083.827148
+2042,"Petroleum","AEO2018 without Clean Power Plan MMmt CO2",2077.154297
+2041,"Petroleum","AEO2018 without Clean Power Plan MMmt CO2",2072.4375
+2040,"Petroleum","AEO2018 without Clean Power Plan MMmt CO2",2068.678467
+2039,"Petroleum","AEO2018 without Clean Power Plan MMmt CO2",2065.320068
+2038,"Petroleum","AEO2018 without Clean Power Plan MMmt CO2",2064.26709
+2037,"Petroleum","AEO2018 without Clean Power Plan MMmt CO2",2062.606934
+2036,"Petroleum","AEO2018 without Clean Power Plan MMmt CO2",2065.281738
+2035,"Petroleum","AEO2018 without Clean Power Plan MMmt CO2",2066.707764
+2034,"Petroleum","AEO2018 without Clean Power Plan MMmt CO2",2071.541016
+2033,"Petroleum","AEO2018 without Clean Power Plan MMmt CO2",2079.078613
+2032,"Petroleum","AEO2018 without Clean Power Plan MMmt CO2",2088.506104
+2031,"Petroleum","AEO2018 without Clean Power Plan MMmt CO2",2098.785156
+2030,"Petroleum","AEO2018 without Clean Power Plan MMmt CO2",2106.766357
+2029,"Petroleum","AEO2018 without Clean Power Plan MMmt CO2",2120.26416
+2028,"Petroleum","AEO2018 without Clean Power Plan MMmt CO2",2135.479492
+2027,"Petroleum","AEO2018 without Clean Power Plan MMmt CO2",2151.865723
+2026,"Petroleum","AEO2018 without Clean Power Plan MMmt CO2",2171.143555
+2025,"Petroleum","AEO2018 without Clean Power Plan MMmt CO2",2197.646973
+2024,"Petroleum","AEO2018 without Clean Power Plan MMmt CO2",2227.075439
+2023,"Petroleum","AEO2018 without Clean Power Plan MMmt CO2",2252.209473
+2022,"Petroleum","AEO2018 without Clean Power Plan MMmt CO2",2280.949707
+2021,"Petroleum","AEO2018 without Clean Power Plan MMmt CO2",2309.471191
+2020,"Petroleum","AEO2018 without Clean Power Plan MMmt CO2",2331.166992
+2019,"Petroleum","AEO2018 without Clean Power Plan MMmt CO2",2370.764648
+2018,"Petroleum","AEO2018 without Clean Power Plan MMmt CO2",2389.478027
+2017,"Petroleum","AEO2018 without Clean Power Plan MMmt CO2",2343.614014
+2050,"Natural Gas","Reference case MMmt CO2",1889.031494
+2049,"Natural Gas","Reference case MMmt CO2",1879.293457
+2048,"Natural Gas","Reference case MMmt CO2",1872.755615
+2047,"Natural Gas","Reference case MMmt CO2",1860.561523
+2046,"Natural Gas","Reference case MMmt CO2",1855.500732
+2045,"Natural Gas","Reference case MMmt CO2",1850.195312
+2044,"Natural Gas","Reference case MMmt CO2",1836.109131
+2043,"Natural Gas","Reference case MMmt CO2",1825.341187
+2042,"Natural Gas","Reference case MMmt CO2",1819.490356
+2041,"Natural Gas","Reference case MMmt CO2",1807.977295
+2040,"Natural Gas","Reference case MMmt CO2",1801.260498
+2039,"Natural Gas","Reference case MMmt CO2",1789.526489
+2038,"Natural Gas","Reference case MMmt CO2",1784.949463
+2037,"Natural Gas","Reference case MMmt CO2",1777.234375
+2036,"Natural Gas","Reference case MMmt CO2",1770.833984
+2035,"Natural Gas","Reference case MMmt CO2",1764.513184
+2034,"Natural Gas","Reference case MMmt CO2",1757.418457
+2033,"Natural Gas","Reference case MMmt CO2",1750.960938
+2032,"Natural Gas","Reference case MMmt CO2",1748.661499
+2031,"Natural Gas","Reference case MMmt CO2",1728.673096
+2030,"Natural Gas","Reference case MMmt CO2",1718.306885
+2029,"Natural Gas","Reference case MMmt CO2",1718.933838
+2028,"Natural Gas","Reference case MMmt CO2",1724.056885
+2027,"Natural Gas","Reference case MMmt CO2",1711.753174
+2026,"Natural Gas","Reference case MMmt CO2",1703.039551
+2025,"Natural Gas","Reference case MMmt CO2",1685.928711
+2024,"Natural Gas","Reference case MMmt CO2",1670.21875
+2023,"Natural Gas","Reference case MMmt CO2",1668.83667
+2022,"Natural Gas","Reference case MMmt CO2",1661.886719
+2021,"Natural Gas","Reference case MMmt CO2",1646.202759
+2020,"Natural Gas","Reference case MMmt CO2",1635.596191
+2019,"Natural Gas","Reference case MMmt CO2",1600.119019
+2018,"Natural Gas","Reference case MMmt CO2",1587.277954
+2017,"Natural Gas","Reference case MMmt CO2",1473.595947
+2050,"Natural Gas","High economic growth MMmt CO2",2014.159302
+2049,"Natural Gas","High economic growth MMmt CO2",1992.292358
+2048,"Natural Gas","High economic growth MMmt CO2",1979.630127
+2047,"Natural Gas","High economic growth MMmt CO2",1957.778198
+2046,"Natural Gas","High economic growth MMmt CO2",1953.435547
+2045,"Natural Gas","High economic growth MMmt CO2",1941.838623
+2044,"Natural Gas","High economic growth MMmt CO2",1928.274536
+2043,"Natural Gas","High economic growth MMmt CO2",1920.272949
+2042,"Natural Gas","High economic growth MMmt CO2",1903.646362
+2041,"Natural Gas","High economic growth MMmt CO2",1894.486938
+2040,"Natural Gas","High economic growth MMmt CO2",1881.363892
+2039,"Natural Gas","High economic growth MMmt CO2",1868.609375
+2038,"Natural Gas","High economic growth MMmt CO2",1849.815186
+2037,"Natural Gas","High economic growth MMmt CO2",1829.568848
+2036,"Natural Gas","High economic growth MMmt CO2",1815.848999
+2035,"Natural Gas","High economic growth MMmt CO2",1807.140625
+2034,"Natural Gas","High economic growth MMmt CO2",1799.635498
+2033,"Natural Gas","High economic growth MMmt CO2",1791.754639
+2032,"Natural Gas","High economic growth MMmt CO2",1780.407959
+2031,"Natural Gas","High economic growth MMmt CO2",1768.984863
+2030,"Natural Gas","High economic growth MMmt CO2",1756.064209
+2029,"Natural Gas","High economic growth MMmt CO2",1761.580322
+2028,"Natural Gas","High economic growth MMmt CO2",1754.875732
+2027,"Natural Gas","High economic growth MMmt CO2",1740.942627
+2026,"Natural Gas","High economic growth MMmt CO2",1726.362793
+2025,"Natural Gas","High economic growth MMmt CO2",1700.371216
+2024,"Natural Gas","High economic growth MMmt CO2",1684.579834
+2023,"Natural Gas","High economic growth MMmt CO2",1677.881226
+2022,"Natural Gas","High economic growth MMmt CO2",1669.794922
+2021,"Natural Gas","High economic growth MMmt CO2",1655.269043
+2020,"Natural Gas","High economic growth MMmt CO2",1641.407959
+2019,"Natural Gas","High economic growth MMmt CO2",1597.031494
+2018,"Natural Gas","High economic growth MMmt CO2",1584.975098
+2017,"Natural Gas","High economic growth MMmt CO2",1473.595947
+2050,"Natural Gas","Low economic growth MMmt CO2",1790.173096
+2049,"Natural Gas","Low economic growth MMmt CO2",1780.610596
+2048,"Natural Gas","Low economic growth MMmt CO2",1776.181519
+2047,"Natural Gas","Low economic growth MMmt CO2",1769.040039
+2046,"Natural Gas","Low economic growth MMmt CO2",1765.557129
+2045,"Natural Gas","Low economic growth MMmt CO2",1761.32959
+2044,"Natural Gas","Low economic growth MMmt CO2",1755.63501
+2043,"Natural Gas","Low economic growth MMmt CO2",1746.906738
+2042,"Natural Gas","Low economic growth MMmt CO2",1743.064941
+2041,"Natural Gas","Low economic growth MMmt CO2",1736.053955
+2040,"Natural Gas","Low economic growth MMmt CO2",1733.349121
+2039,"Natural Gas","Low economic growth MMmt CO2",1732.03479
+2038,"Natural Gas","Low economic growth MMmt CO2",1725.99646
+2037,"Natural Gas","Low economic growth MMmt CO2",1713.585571
+2036,"Natural Gas","Low economic growth MMmt CO2",1710.702881
+2035,"Natural Gas","Low economic growth MMmt CO2",1707.758667
+2034,"Natural Gas","Low economic growth MMmt CO2",1704.343018
+2033,"Natural Gas","Low economic growth MMmt CO2",1699.907837
+2032,"Natural Gas","Low economic growth MMmt CO2",1702.498291
+2031,"Natural Gas","Low economic growth MMmt CO2",1690.985474
+2030,"Natural Gas","Low economic growth MMmt CO2",1687.897705
+2029,"Natural Gas","Low economic growth MMmt CO2",1693.126221
+2028,"Natural Gas","Low economic growth MMmt CO2",1696.021973
+2027,"Natural Gas","Low economic growth MMmt CO2",1688.215698
+2026,"Natural Gas","Low economic growth MMmt CO2",1675.457153
+2025,"Natural Gas","Low economic growth MMmt CO2",1662.852051
+2024,"Natural Gas","Low economic growth MMmt CO2",1653.440186
+2023,"Natural Gas","Low economic growth MMmt CO2",1650.14624
+2022,"Natural Gas","Low economic growth MMmt CO2",1647.474854
+2021,"Natural Gas","Low economic growth MMmt CO2",1640.507568
+2020,"Natural Gas","Low economic growth MMmt CO2",1631.168213
+2019,"Natural Gas","Low economic growth MMmt CO2",1601.043335
+2018,"Natural Gas","Low economic growth MMmt CO2",1584.678223
+2017,"Natural Gas","Low economic growth MMmt CO2",1473.595947
+2050,"Natural Gas","High oil price MMmt CO2",1953.627075
+2049,"Natural Gas","High oil price MMmt CO2",1947.076416
+2048,"Natural Gas","High oil price MMmt CO2",1934.866699
+2047,"Natural Gas","High oil price MMmt CO2",1923.050903
+2046,"Natural Gas","High oil price MMmt CO2",1921.230835
+2045,"Natural Gas","High oil price MMmt CO2",1918.802979
+2044,"Natural Gas","High oil price MMmt CO2",1915.086182
+2043,"Natural Gas","High oil price MMmt CO2",1917.119141
+2042,"Natural Gas","High oil price MMmt CO2",1912.580566
+2041,"Natural Gas","High oil price MMmt CO2",1913.112549
+2040,"Natural Gas","High oil price MMmt CO2",1906.055298
+2039,"Natural Gas","High oil price MMmt CO2",1914.042725
+2038,"Natural Gas","High oil price MMmt CO2",1910.597656
+2037,"Natural Gas","High oil price MMmt CO2",1903.396484
+2036,"Natural Gas","High oil price MMmt CO2",1893.644775
+2035,"Natural Gas","High oil price MMmt CO2",1882.136963
+2034,"Natural Gas","High oil price MMmt CO2",1869.990112
+2033,"Natural Gas","High oil price MMmt CO2",1859.713867
+2032,"Natural Gas","High oil price MMmt CO2",1846.893921
+2031,"Natural Gas","High oil price MMmt CO2",1830.584229
+2030,"Natural Gas","High oil price MMmt CO2",1817.906494
+2029,"Natural Gas","High oil price MMmt CO2",1822.202759
+2028,"Natural Gas","High oil price MMmt CO2",1822.825073
+2027,"Natural Gas","High oil price MMmt CO2",1824.063599
+2026,"Natural Gas","High oil price MMmt CO2",1821.358276
+2025,"Natural Gas","High oil price MMmt CO2",1822.912598
+2024,"Natural Gas","High oil price MMmt CO2",1813.436401
+2023,"Natural Gas","High oil price MMmt CO2",1801.154419
+2022,"Natural Gas","High oil price MMmt CO2",1778.812256
+2021,"Natural Gas","High oil price MMmt CO2",1736.332275
+2020,"Natural Gas","High oil price MMmt CO2",1677.500854
+2019,"Natural Gas","High oil price MMmt CO2",1620.325195
+2018,"Natural Gas","High oil price MMmt CO2",1588.010986
+2017,"Natural Gas","High oil price MMmt CO2",1473.595947
+2050,"Natural Gas","Low oil price MMmt CO2",1786.25293
+2049,"Natural Gas","Low oil price MMmt CO2",1772.711792
+2048,"Natural Gas","Low oil price MMmt CO2",1761.581909
+2047,"Natural Gas","Low oil price MMmt CO2",1754.055786
+2046,"Natural Gas","Low oil price MMmt CO2",1742.448975
+2045,"Natural Gas","Low oil price MMmt CO2",1736.478271
+2044,"Natural Gas","Low oil price MMmt CO2",1727.797363
+2043,"Natural Gas","Low oil price MMmt CO2",1716.250732
+2042,"Natural Gas","Low oil price MMmt CO2",1712.48999
+2041,"Natural Gas","Low oil price MMmt CO2",1705.836426
+2040,"Natural Gas","Low oil price MMmt CO2",1699.8396
+2039,"Natural Gas","Low oil price MMmt CO2",1690.636475
+2038,"Natural Gas","Low oil price MMmt CO2",1681.140137
+2037,"Natural Gas","Low oil price MMmt CO2",1677.067139
+2036,"Natural Gas","Low oil price MMmt CO2",1676.959717
+2035,"Natural Gas","Low oil price MMmt CO2",1674.991211
+2034,"Natural Gas","Low oil price MMmt CO2",1666.241699
+2033,"Natural Gas","Low oil price MMmt CO2",1667.880981
+2032,"Natural Gas","Low oil price MMmt CO2",1662.904053
+2031,"Natural Gas","Low oil price MMmt CO2",1651.964966
+2030,"Natural Gas","Low oil price MMmt CO2",1644.263184
+2029,"Natural Gas","Low oil price MMmt CO2",1659.067993
+2028,"Natural Gas","Low oil price MMmt CO2",1658.858521
+2027,"Natural Gas","Low oil price MMmt CO2",1649.851074
+2026,"Natural Gas","Low oil price MMmt CO2",1641.633789
+2025,"Natural Gas","Low oil price MMmt CO2",1627.629639
+2024,"Natural Gas","Low oil price MMmt CO2",1616.763306
+2023,"Natural Gas","Low oil price MMmt CO2",1609.664673
+2022,"Natural Gas","Low oil price MMmt CO2",1605.585327
+2021,"Natural Gas","Low oil price MMmt CO2",1599.000977
+2020,"Natural Gas","Low oil price MMmt CO2",1599.859863
+2019,"Natural Gas","Low oil price MMmt CO2",1587.418335
+2018,"Natural Gas","Low oil price MMmt CO2",1587.28772
+2017,"Natural Gas","Low oil price MMmt CO2",1473.595947
+2050,"Natural Gas","High oil and gas resource and technology MMmt CO2",2264.557617
+2049,"Natural Gas","High oil and gas resource and technology MMmt CO2",2247.543945
+2048,"Natural Gas","High oil and gas resource and technology MMmt CO2",2233.109375
+2047,"Natural Gas","High oil and gas resource and technology MMmt CO2",2216.691162
+2046,"Natural Gas","High oil and gas resource and technology MMmt CO2",2201.729492
+2045,"Natural Gas","High oil and gas resource and technology MMmt CO2",2188.934326
+2044,"Natural Gas","High oil and gas resource and technology MMmt CO2",2177.02002
+2043,"Natural Gas","High oil and gas resource and technology MMmt CO2",2158.382324
+2042,"Natural Gas","High oil and gas resource and technology MMmt CO2",2142.879395
+2041,"Natural Gas","High oil and gas resource and technology MMmt CO2",2131.071289
+2040,"Natural Gas","High oil and gas resource and technology MMmt CO2",2115.411621
+2039,"Natural Gas","High oil and gas resource and technology MMmt CO2",2098.954102
+2038,"Natural Gas","High oil and gas resource and technology MMmt CO2",2081.670898
+2037,"Natural Gas","High oil and gas resource and technology MMmt CO2",2058.088867
+2036,"Natural Gas","High oil and gas resource and technology MMmt CO2",2039.534668
+2035,"Natural Gas","High oil and gas resource and technology MMmt CO2",2024.630127
+2034,"Natural Gas","High oil and gas resource and technology MMmt CO2",2004.803711
+2033,"Natural Gas","High oil and gas resource and technology MMmt CO2",1991.740479
+2032,"Natural Gas","High oil and gas resource and technology MMmt CO2",1974.611938
+2031,"Natural Gas","High oil and gas resource and technology MMmt CO2",1957.986328
+2030,"Natural Gas","High oil and gas resource and technology MMmt CO2",1933.695679
+2029,"Natural Gas","High oil and gas resource and technology MMmt CO2",1915.76123
+2028,"Natural Gas","High oil and gas resource and technology MMmt CO2",1911.529175
+2027,"Natural Gas","High oil and gas resource and technology MMmt CO2",1887.48877
+2026,"Natural Gas","High oil and gas resource and technology MMmt CO2",1866.133545
+2025,"Natural Gas","High oil and gas resource and technology MMmt CO2",1832.383179
+2024,"Natural Gas","High oil and gas resource and technology MMmt CO2",1797.546509
+2023,"Natural Gas","High oil and gas resource and technology MMmt CO2",1780.655518
+2022,"Natural Gas","High oil and gas resource and technology MMmt CO2",1749.875122
+2021,"Natural Gas","High oil and gas resource and technology MMmt CO2",1714.312744
+2020,"Natural Gas","High oil and gas resource and technology MMmt CO2",1683.241455
+2019,"Natural Gas","High oil and gas resource and technology MMmt CO2",1605.408447
+2018,"Natural Gas","High oil and gas resource and technology MMmt CO2",1585.787109
+2017,"Natural Gas","High oil and gas resource and technology MMmt CO2",1473.595947
+2050,"Natural Gas","Low oil and gas resource and technology MMmt CO2",1465.753906
+2049,"Natural Gas","Low oil and gas resource and technology MMmt CO2",1456.131836
+2048,"Natural Gas","Low oil and gas resource and technology MMmt CO2",1451.464844
+2047,"Natural Gas","Low oil and gas resource and technology MMmt CO2",1445.713745
+2046,"Natural Gas","Low oil and gas resource and technology MMmt CO2",1436.6073
+2045,"Natural Gas","Low oil and gas resource and technology MMmt CO2",1427.562378
+2044,"Natural Gas","Low oil and gas resource and technology MMmt CO2",1426.300537
+2043,"Natural Gas","Low oil and gas resource and technology MMmt CO2",1427.851562
+2042,"Natural Gas","Low oil and gas resource and technology MMmt CO2",1424.542358
+2041,"Natural Gas","Low oil and gas resource and technology MMmt CO2",1431.435059
+2040,"Natural Gas","Low oil and gas resource and technology MMmt CO2",1431.601074
+2039,"Natural Gas","Low oil and gas resource and technology MMmt CO2",1429.059448
+2038,"Natural Gas","Low oil and gas resource and technology MMmt CO2",1429.37915
+2037,"Natural Gas","Low oil and gas resource and technology MMmt CO2",1430.681396
+2036,"Natural Gas","Low oil and gas resource and technology MMmt CO2",1433.492432
+2035,"Natural Gas","Low oil and gas resource and technology MMmt CO2",1429.823608
+2034,"Natural Gas","Low oil and gas resource and technology MMmt CO2",1437.349243
+2033,"Natural Gas","Low oil and gas resource and technology MMmt CO2",1438.401733
+2032,"Natural Gas","Low oil and gas resource and technology MMmt CO2",1449.141357
+2031,"Natural Gas","Low oil and gas resource and technology MMmt CO2",1447.179688
+2030,"Natural Gas","Low oil and gas resource and technology MMmt CO2",1449.408203
+2029,"Natural Gas","Low oil and gas resource and technology MMmt CO2",1460.64502
+2028,"Natural Gas","Low oil and gas resource and technology MMmt CO2",1476.713867
+2027,"Natural Gas","Low oil and gas resource and technology MMmt CO2",1484.330322
+2026,"Natural Gas","Low oil and gas resource and technology MMmt CO2",1496.310547
+2025,"Natural Gas","Low oil and gas resource and technology MMmt CO2",1492.958984
+2024,"Natural Gas","Low oil and gas resource and technology MMmt CO2",1492.540649
+2023,"Natural Gas","Low oil and gas resource and technology MMmt CO2",1511.562378
+2022,"Natural Gas","Low oil and gas resource and technology MMmt CO2",1530.611816
+2021,"Natural Gas","Low oil and gas resource and technology MMmt CO2",1548.625732
+2020,"Natural Gas","Low oil and gas resource and technology MMmt CO2",1562.360229
+2019,"Natural Gas","Low oil and gas resource and technology MMmt CO2",1584.240234
+2018,"Natural Gas","Low oil and gas resource and technology MMmt CO2",1585.39624
+2017,"Natural Gas","Low oil and gas resource and technology MMmt CO2",1473.595947
+2050,"Natural Gas","AEO2018 without Clean Power Plan MMmt CO2",1860.400146
+2049,"Natural Gas","AEO2018 without Clean Power Plan MMmt CO2",1844.12915
+2048,"Natural Gas","AEO2018 without Clean Power Plan MMmt CO2",1835.862061
+2047,"Natural Gas","AEO2018 without Clean Power Plan MMmt CO2",1822.704834
+2046,"Natural Gas","AEO2018 without Clean Power Plan MMmt CO2",1811.647827
+2045,"Natural Gas","AEO2018 without Clean Power Plan MMmt CO2",1801.297852
+2044,"Natural Gas","AEO2018 without Clean Power Plan MMmt CO2",1792.692749
+2043,"Natural Gas","AEO2018 without Clean Power Plan MMmt CO2",1788.097168
+2042,"Natural Gas","AEO2018 without Clean Power Plan MMmt CO2",1776.368774
+2041,"Natural Gas","AEO2018 without Clean Power Plan MMmt CO2",1762.623047
+2040,"Natural Gas","AEO2018 without Clean Power Plan MMmt CO2",1750.24707
+2039,"Natural Gas","AEO2018 without Clean Power Plan MMmt CO2",1736.071045
+2038,"Natural Gas","AEO2018 without Clean Power Plan MMmt CO2",1725.896729
+2037,"Natural Gas","AEO2018 without Clean Power Plan MMmt CO2",1717.150635
+2036,"Natural Gas","AEO2018 without Clean Power Plan MMmt CO2",1703.01709
+2035,"Natural Gas","AEO2018 without Clean Power Plan MMmt CO2",1693.040039
+2034,"Natural Gas","AEO2018 without Clean Power Plan MMmt CO2",1686.303711
+2033,"Natural Gas","AEO2018 without Clean Power Plan MMmt CO2",1673.993042
+2032,"Natural Gas","AEO2018 without Clean Power Plan MMmt CO2",1668.285156
+2031,"Natural Gas","AEO2018 without Clean Power Plan MMmt CO2",1663.68335
+2030,"Natural Gas","AEO2018 without Clean Power Plan MMmt CO2",1655.710205
+2029,"Natural Gas","AEO2018 without Clean Power Plan MMmt CO2",1650.29126
+2028,"Natural Gas","AEO2018 without Clean Power Plan MMmt CO2",1640.081299
+2027,"Natural Gas","AEO2018 without Clean Power Plan MMmt CO2",1622.777222
+2026,"Natural Gas","AEO2018 without Clean Power Plan MMmt CO2",1609.932373
+2025,"Natural Gas","AEO2018 without Clean Power Plan MMmt CO2",1605.30127
+2024,"Natural Gas","AEO2018 without Clean Power Plan MMmt CO2",1597.658203
+2023,"Natural Gas","AEO2018 without Clean Power Plan MMmt CO2",1604.091553
+2022,"Natural Gas","AEO2018 without Clean Power Plan MMmt CO2",1590.02417
+2021,"Natural Gas","AEO2018 without Clean Power Plan MMmt CO2",1573.750488
+2020,"Natural Gas","AEO2018 without Clean Power Plan MMmt CO2",1567.168213
+2019,"Natural Gas","AEO2018 without Clean Power Plan MMmt CO2",1566.998047
+2018,"Natural Gas","AEO2018 without Clean Power Plan MMmt CO2",1521.921631
+2017,"Natural Gas","AEO2018 without Clean Power Plan MMmt CO2",1441.96521
+2050,"Coal","Reference case MMmt CO2",1006.435486
+2049,"Coal","Reference case MMmt CO2",1005.541626
+2048,"Coal","Reference case MMmt CO2",1005.147461
+2047,"Coal","Reference case MMmt CO2",1003.245056
+2046,"Coal","Reference case MMmt CO2",1002.473938
+2045,"Coal","Reference case MMmt CO2",1004.786621
+2044,"Coal","Reference case MMmt CO2",1001.37854
+2043,"Coal","Reference case MMmt CO2",1000.315674
+2042,"Coal","Reference case MMmt CO2",1004.217773
+2041,"Coal","Reference case MMmt CO2",1006.838501
+2040,"Coal","Reference case MMmt CO2",1012.77002
+2039,"Coal","Reference case MMmt CO2",1012.358826
+2038,"Coal","Reference case MMmt CO2",1014.010315
+2037,"Coal","Reference case MMmt CO2",1015.616211
+2036,"Coal","Reference case MMmt CO2",1022.69165
+2035,"Coal","Reference case MMmt CO2",1023.026672
+2034,"Coal","Reference case MMmt CO2",1025.374146
+2033,"Coal","Reference case MMmt CO2",1037.744141
+2032,"Coal","Reference case MMmt CO2",1037.762695
+2031,"Coal","Reference case MMmt CO2",1067.922363
+2030,"Coal","Reference case MMmt CO2",1083.819336
+2029,"Coal","Reference case MMmt CO2",1080.46228
+2028,"Coal","Reference case MMmt CO2",1062.980225
+2027,"Coal","Reference case MMmt CO2",1068.213501
+2026,"Coal","Reference case MMmt CO2",1079.242065
+2025,"Coal","Reference case MMmt CO2",1091.715942
+2024,"Coal","Reference case MMmt CO2",1096.284546
+2023,"Coal","Reference case MMmt CO2",1086.602661
+2022,"Coal","Reference case MMmt CO2",1087.352661
+2021,"Coal","Reference case MMmt CO2",1098.615479
+2020,"Coal","Reference case MMmt CO2",1138.135742
+2019,"Coal","Reference case MMmt CO2",1202.883789
+2018,"Coal","Reference case MMmt CO2",1257.848145
+2017,"Coal","Reference case MMmt CO2",1318.306152
+2050,"Coal","High economic growth MMmt CO2",1048.400146
+2049,"Coal","High economic growth MMmt CO2",1049.107178
+2048,"Coal","High economic growth MMmt CO2",1049.13562
+2047,"Coal","High economic growth MMmt CO2",1045.623291
+2046,"Coal","High economic growth MMmt CO2",1041.714111
+2045,"Coal","High economic growth MMmt CO2",1044.540649
+2044,"Coal","High economic growth MMmt CO2",1041.327271
+2043,"Coal","High economic growth MMmt CO2",1038.340576
+2042,"Coal","High economic growth MMmt CO2",1043.144775
+2041,"Coal","High economic growth MMmt CO2",1037.825806
+2040,"Coal","High economic growth MMmt CO2",1040.683594
+2039,"Coal","High economic growth MMmt CO2",1044.006958
+2038,"Coal","High economic growth MMmt CO2",1044.253784
+2037,"Coal","High economic growth MMmt CO2",1041.241089
+2036,"Coal","High economic growth MMmt CO2",1039.991211
+2035,"Coal","High economic growth MMmt CO2",1040.442749
+2034,"Coal","High economic growth MMmt CO2",1040.437988
+2033,"Coal","High economic growth MMmt CO2",1039.205811
+2032,"Coal","High economic growth MMmt CO2",1060.589355
+2031,"Coal","High economic growth MMmt CO2",1068.63147
+2030,"Coal","High economic growth MMmt CO2",1084.118652
+2029,"Coal","High economic growth MMmt CO2",1058.947876
+2028,"Coal","High economic growth MMmt CO2",1056.957275
+2027,"Coal","High economic growth MMmt CO2",1061.437012
+2026,"Coal","High economic growth MMmt CO2",1068.564575
+2025,"Coal","High economic growth MMmt CO2",1091.191772
+2024,"Coal","High economic growth MMmt CO2",1094.713013
+2023,"Coal","High economic growth MMmt CO2",1086.549438
+2022,"Coal","High economic growth MMmt CO2",1089.288452
+2021,"Coal","High economic growth MMmt CO2",1098.707397
+2020,"Coal","High economic growth MMmt CO2",1135.101685
+2019,"Coal","High economic growth MMmt CO2",1201.914062
+2018,"Coal","High economic growth MMmt CO2",1261.845703
+2017,"Coal","High economic growth MMmt CO2",1318.306152
+2050,"Coal","Low economic growth MMmt CO2",960.252197
+2049,"Coal","Low economic growth MMmt CO2",960.343201
+2048,"Coal","Low economic growth MMmt CO2",959.877747
+2047,"Coal","Low economic growth MMmt CO2",960.364136
+2046,"Coal","Low economic growth MMmt CO2",959.970093
+2045,"Coal","Low economic growth MMmt CO2",960.1604
+2044,"Coal","Low economic growth MMmt CO2",955.934143
+2043,"Coal","Low economic growth MMmt CO2",957.202148
+2042,"Coal","Low economic growth MMmt CO2",957.830994
+2041,"Coal","Low economic growth MMmt CO2",962.69104
+2040,"Coal","Low economic growth MMmt CO2",965.532104
+2039,"Coal","Low economic growth MMmt CO2",966.708496
+2038,"Coal","Low economic growth MMmt CO2",966.554016
+2037,"Coal","Low economic growth MMmt CO2",967.374268
+2036,"Coal","Low economic growth MMmt CO2",972.329651
+2035,"Coal","Low economic growth MMmt CO2",972.632324
+2034,"Coal","Low economic growth MMmt CO2",979.780334
+2033,"Coal","Low economic growth MMmt CO2",988.737122
+2032,"Coal","Low economic growth MMmt CO2",994.931335
+2031,"Coal","Low economic growth MMmt CO2",1018.113708
+2030,"Coal","Low economic growth MMmt CO2",1033.983765
+2029,"Coal","Low economic growth MMmt CO2",1032.344238
+2028,"Coal","Low economic growth MMmt CO2",1013.175171
+2027,"Coal","Low economic growth MMmt CO2",1020.202942
+2026,"Coal","Low economic growth MMmt CO2",1043.408081
+2025,"Coal","Low economic growth MMmt CO2",1059.702393
+2024,"Coal","Low economic growth MMmt CO2",1076.658081
+2023,"Coal","Low economic growth MMmt CO2",1071.264526
+2022,"Coal","Low economic growth MMmt CO2",1061.357666
+2021,"Coal","Low economic growth MMmt CO2",1073.734497
+2020,"Coal","Low economic growth MMmt CO2",1125.374146
+2019,"Coal","Low economic growth MMmt CO2",1209.258545
+2018,"Coal","Low economic growth MMmt CO2",1262.126831
+2017,"Coal","Low economic growth MMmt CO2",1318.306152
+2050,"Coal","High oil price MMmt CO2",953.93042
+2049,"Coal","High oil price MMmt CO2",953.90271
+2048,"Coal","High oil price MMmt CO2",952.845886
+2047,"Coal","High oil price MMmt CO2",954.127197
+2046,"Coal","High oil price MMmt CO2",953.045166
+2045,"Coal","High oil price MMmt CO2",952.581177
+2044,"Coal","High oil price MMmt CO2",953.234985
+2043,"Coal","High oil price MMmt CO2",953.509888
+2042,"Coal","High oil price MMmt CO2",957.433899
+2041,"Coal","High oil price MMmt CO2",958.648743
+2040,"Coal","High oil price MMmt CO2",959.923218
+2039,"Coal","High oil price MMmt CO2",954.260742
+2038,"Coal","High oil price MMmt CO2",956.205688
+2037,"Coal","High oil price MMmt CO2",959.844604
+2036,"Coal","High oil price MMmt CO2",960.753906
+2035,"Coal","High oil price MMmt CO2",965.664307
+2034,"Coal","High oil price MMmt CO2",970.159241
+2033,"Coal","High oil price MMmt CO2",969.085815
+2032,"Coal","High oil price MMmt CO2",964.44989
+2031,"Coal","High oil price MMmt CO2",967.608826
+2030,"Coal","High oil price MMmt CO2",969.485718
+2029,"Coal","High oil price MMmt CO2",949.918579
+2028,"Coal","High oil price MMmt CO2",938.990295
+2027,"Coal","High oil price MMmt CO2",933.338257
+2026,"Coal","High oil price MMmt CO2",957.871643
+2025,"Coal","High oil price MMmt CO2",958.92395
+2024,"Coal","High oil price MMmt CO2",969.545288
+2023,"Coal","High oil price MMmt CO2",958.505371
+2022,"Coal","High oil price MMmt CO2",992.967285
+2021,"Coal","High oil price MMmt CO2",1031.723145
+2020,"Coal","High oil price MMmt CO2",1116.671875
+2019,"Coal","High oil price MMmt CO2",1206.460449
+2018,"Coal","High oil price MMmt CO2",1256.218506
+2017,"Coal","High oil price MMmt CO2",1318.306152
+2050,"Coal","Low oil price MMmt CO2",1050.69751
+2049,"Coal","Low oil price MMmt CO2",1051.262573
+2048,"Coal","Low oil price MMmt CO2",1051.359009
+2047,"Coal","Low oil price MMmt CO2",1053.125732
+2046,"Coal","Low oil price MMmt CO2",1054.487793
+2045,"Coal","Low oil price MMmt CO2",1053.113525
+2044,"Coal","Low oil price MMmt CO2",1050.713501
+2043,"Coal","Low oil price MMmt CO2",1050.802734
+2042,"Coal","Low oil price MMmt CO2",1052.72522
+2041,"Coal","Low oil price MMmt CO2",1054.905518
+2040,"Coal","Low oil price MMmt CO2",1058.486938
+2039,"Coal","Low oil price MMmt CO2",1058.793701
+2038,"Coal","Low oil price MMmt CO2",1059.105591
+2037,"Coal","Low oil price MMmt CO2",1058.900513
+2036,"Coal","Low oil price MMmt CO2",1057.060547
+2035,"Coal","Low oil price MMmt CO2",1057.655273
+2034,"Coal","Low oil price MMmt CO2",1062.578125
+2033,"Coal","Low oil price MMmt CO2",1059.920288
+2032,"Coal","Low oil price MMmt CO2",1071.988159
+2031,"Coal","Low oil price MMmt CO2",1078.427246
+2030,"Coal","Low oil price MMmt CO2",1093.557739
+2029,"Coal","Low oil price MMmt CO2",1067.659058
+2028,"Coal","Low oil price MMmt CO2",1080.452759
+2027,"Coal","Low oil price MMmt CO2",1089.526978
+2026,"Coal","Low oil price MMmt CO2",1097.15979
+2025,"Coal","Low oil price MMmt CO2",1114.924194
+2024,"Coal","Low oil price MMmt CO2",1115.41748
+2023,"Coal","Low oil price MMmt CO2",1126.690796
+2022,"Coal","Low oil price MMmt CO2",1118.04895
+2021,"Coal","Low oil price MMmt CO2",1119.355469
+2020,"Coal","Low oil price MMmt CO2",1135.48291
+2019,"Coal","Low oil price MMmt CO2",1201.536011
+2018,"Coal","Low oil price MMmt CO2",1257.567871
+2017,"Coal","Low oil price MMmt CO2",1318.306152
+2050,"Coal","High oil and gas resource and technology MMmt CO2",770.185974
+2049,"Coal","High oil and gas resource and technology MMmt CO2",765.759094
+2048,"Coal","High oil and gas resource and technology MMmt CO2",765.631836
+2047,"Coal","High oil and gas resource and technology MMmt CO2",766.223511
+2046,"Coal","High oil and gas resource and technology MMmt CO2",766.027466
+2045,"Coal","High oil and gas resource and technology MMmt CO2",763.030151
+2044,"Coal","High oil and gas resource and technology MMmt CO2",760.247314
+2043,"Coal","High oil and gas resource and technology MMmt CO2",761.908081
+2042,"Coal","High oil and gas resource and technology MMmt CO2",762.460449
+2041,"Coal","High oil and gas resource and technology MMmt CO2",764.947815
+2040,"Coal","High oil and gas resource and technology MMmt CO2",772.620544
+2039,"Coal","High oil and gas resource and technology MMmt CO2",781.995972
+2038,"Coal","High oil and gas resource and technology MMmt CO2",791.485046
+2037,"Coal","High oil and gas resource and technology MMmt CO2",813.940063
+2036,"Coal","High oil and gas resource and technology MMmt CO2",819.128113
+2035,"Coal","High oil and gas resource and technology MMmt CO2",820.687439
+2034,"Coal","High oil and gas resource and technology MMmt CO2",845.943909
+2033,"Coal","High oil and gas resource and technology MMmt CO2",849.472656
+2032,"Coal","High oil and gas resource and technology MMmt CO2",865.872009
+2031,"Coal","High oil and gas resource and technology MMmt CO2",870.000732
+2030,"Coal","High oil and gas resource and technology MMmt CO2",888.977905
+2029,"Coal","High oil and gas resource and technology MMmt CO2",874.299438
+2028,"Coal","High oil and gas resource and technology MMmt CO2",880.141724
+2027,"Coal","High oil and gas resource and technology MMmt CO2",918.015076
+2026,"Coal","High oil and gas resource and technology MMmt CO2",951.864258
+2025,"Coal","High oil and gas resource and technology MMmt CO2",983.897705
+2024,"Coal","High oil and gas resource and technology MMmt CO2",1001.930908
+2023,"Coal","High oil and gas resource and technology MMmt CO2",984.84198
+2022,"Coal","High oil and gas resource and technology MMmt CO2",980.489075
+2021,"Coal","High oil and gas resource and technology MMmt CO2",1013.08197
+2020,"Coal","High oil and gas resource and technology MMmt CO2",1068.970947
+2019,"Coal","High oil and gas resource and technology MMmt CO2",1218.615601
+2018,"Coal","High oil and gas resource and technology MMmt CO2",1260.593872
+2017,"Coal","High oil and gas resource and technology MMmt CO2",1318.306152
+2050,"Coal","Low oil and gas resource and technology MMmt CO2",1219.332764
+2049,"Coal","Low oil and gas resource and technology MMmt CO2",1215.517578
+2048,"Coal","Low oil and gas resource and technology MMmt CO2",1212.862671
+2047,"Coal","Low oil and gas resource and technology MMmt CO2",1210.10437
+2046,"Coal","Low oil and gas resource and technology MMmt CO2",1210.08252
+2045,"Coal","Low oil and gas resource and technology MMmt CO2",1202.526001
+2044,"Coal","Low oil and gas resource and technology MMmt CO2",1202.602783
+2043,"Coal","Low oil and gas resource and technology MMmt CO2",1208.757202
+2042,"Coal","Low oil and gas resource and technology MMmt CO2",1205.732422
+2041,"Coal","Low oil and gas resource and technology MMmt CO2",1210.578735
+2040,"Coal","Low oil and gas resource and technology MMmt CO2",1210.412109
+2039,"Coal","Low oil and gas resource and technology MMmt CO2",1214.887207
+2038,"Coal","Low oil and gas resource and technology MMmt CO2",1218.833984
+2037,"Coal","Low oil and gas resource and technology MMmt CO2",1220.433228
+2036,"Coal","Low oil and gas resource and technology MMmt CO2",1217.722412
+2035,"Coal","Low oil and gas resource and technology MMmt CO2",1218.210205
+2034,"Coal","Low oil and gas resource and technology MMmt CO2",1219.510742
+2033,"Coal","Low oil and gas resource and technology MMmt CO2",1220.641357
+2032,"Coal","Low oil and gas resource and technology MMmt CO2",1218.568726
+2031,"Coal","Low oil and gas resource and technology MMmt CO2",1223.28125
+2030,"Coal","Low oil and gas resource and technology MMmt CO2",1230.881592
+2029,"Coal","Low oil and gas resource and technology MMmt CO2",1230.021973
+2028,"Coal","Low oil and gas resource and technology MMmt CO2",1225.01709
+2027,"Coal","Low oil and gas resource and technology MMmt CO2",1225.645264
+2026,"Coal","Low oil and gas resource and technology MMmt CO2",1226.587646
+2025,"Coal","Low oil and gas resource and technology MMmt CO2",1237.763306
+2024,"Coal","Low oil and gas resource and technology MMmt CO2",1230.558228
+2023,"Coal","Low oil and gas resource and technology MMmt CO2",1206.094482
+2022,"Coal","Low oil and gas resource and technology MMmt CO2",1220.413208
+2021,"Coal","Low oil and gas resource and technology MMmt CO2",1219.574341
+2020,"Coal","Low oil and gas resource and technology MMmt CO2",1222.940186
+2019,"Coal","Low oil and gas resource and technology MMmt CO2",1192.708008
+2018,"Coal","Low oil and gas resource and technology MMmt CO2",1261.464355
+2017,"Coal","Low oil and gas resource and technology MMmt CO2",1318.306152
+2050,"Coal","AEO2018 without Clean Power Plan MMmt CO2",1249.79187
+2049,"Coal","AEO2018 without Clean Power Plan MMmt CO2",1247.850464
+2048,"Coal","AEO2018 without Clean Power Plan MMmt CO2",1239.225464
+2047,"Coal","AEO2018 without Clean Power Plan MMmt CO2",1240.501465
+2046,"Coal","AEO2018 without Clean Power Plan MMmt CO2",1240.652832
+2045,"Coal","AEO2018 without Clean Power Plan MMmt CO2",1247.366333
+2044,"Coal","AEO2018 without Clean Power Plan MMmt CO2",1247.288208
+2043,"Coal","AEO2018 without Clean Power Plan MMmt CO2",1237.679077
+2042,"Coal","AEO2018 without Clean Power Plan MMmt CO2",1238.767212
+2041,"Coal","AEO2018 without Clean Power Plan MMmt CO2",1247.425049
+2040,"Coal","AEO2018 without Clean Power Plan MMmt CO2",1248.997803
+2039,"Coal","AEO2018 without Clean Power Plan MMmt CO2",1253.658447
+2038,"Coal","AEO2018 without Clean Power Plan MMmt CO2",1253.348511
+2037,"Coal","AEO2018 without Clean Power Plan MMmt CO2",1253.072876
+2036,"Coal","AEO2018 without Clean Power Plan MMmt CO2",1254.74353
+2035,"Coal","AEO2018 without Clean Power Plan MMmt CO2",1251.829712
+2034,"Coal","AEO2018 without Clean Power Plan MMmt CO2",1254.552612
+2033,"Coal","AEO2018 without Clean Power Plan MMmt CO2",1256.652466
+2032,"Coal","AEO2018 without Clean Power Plan MMmt CO2",1261.057251
+2031,"Coal","AEO2018 without Clean Power Plan MMmt CO2",1268.376953
+2030,"Coal","AEO2018 without Clean Power Plan MMmt CO2",1278.561523
+2029,"Coal","AEO2018 without Clean Power Plan MMmt CO2",1277.212524
+2028,"Coal","AEO2018 without Clean Power Plan MMmt CO2",1274.532959
+2027,"Coal","AEO2018 without Clean Power Plan MMmt CO2",1280.605469
+2026,"Coal","AEO2018 without Clean Power Plan MMmt CO2",1281.907959
+2025,"Coal","AEO2018 without Clean Power Plan MMmt CO2",1264.321045
+2024,"Coal","AEO2018 without Clean Power Plan MMmt CO2",1249.061157
+2023,"Coal","AEO2018 without Clean Power Plan MMmt CO2",1209.751465
+2022,"Coal","AEO2018 without Clean Power Plan MMmt CO2",1205.361694
+2021,"Coal","AEO2018 without Clean Power Plan MMmt CO2",1241.557373
+2020,"Coal","AEO2018 without Clean Power Plan MMmt CO2",1277.052979
+2019,"Coal","AEO2018 without Clean Power Plan MMmt CO2",1280.449219
+2018,"Coal","AEO2018 without Clean Power Plan MMmt CO2",1333.94165
+2017,"Coal","AEO2018 without Clean Power Plan MMmt CO2",1353.415894
+2050,"Other","Reference case MMmt CO2",12.930232
+2049,"Other","Reference case MMmt CO2",12.902781
+2048,"Other","Reference case MMmt CO2",12.847011
+2047,"Other","Reference case MMmt CO2",12.831761
+2046,"Other","Reference case MMmt CO2",12.813272
+2045,"Other","Reference case MMmt CO2",12.793776
+2044,"Other","Reference case MMmt CO2",12.772556
+2043,"Other","Reference case MMmt CO2",12.75358
+2042,"Other","Reference case MMmt CO2",12.731538
+2041,"Other","Reference case MMmt CO2",12.707667
+2040,"Other","Reference case MMmt CO2",12.683224
+2039,"Other","Reference case MMmt CO2",12.656921
+2038,"Other","Reference case MMmt CO2",12.626138
+2037,"Other","Reference case MMmt CO2",12.593749
+2036,"Other","Reference case MMmt CO2",12.558999
+2035,"Other","Reference case MMmt CO2",12.486261
+2034,"Other","Reference case MMmt CO2",12.428909
+2033,"Other","Reference case MMmt CO2",12.368863
+2032,"Other","Reference case MMmt CO2",12.312408
+2031,"Other","Reference case MMmt CO2",12.245044
+2030,"Other","Reference case MMmt CO2",12.17264
+2029,"Other","Reference case MMmt CO2",12.104773
+2028,"Other","Reference case MMmt CO2",12.044202
+2027,"Other","Reference case MMmt CO2",11.989232
+2026,"Other","Reference case MMmt CO2",11.930853
+2025,"Other","Reference case MMmt CO2",11.882953
+2024,"Other","Reference case MMmt CO2",11.831101
+2023,"Other","Reference case MMmt CO2",11.784378
+2022,"Other","Reference case MMmt CO2",11.742866
+2021,"Other","Reference case MMmt CO2",11.708276
+2020,"Other","Reference case MMmt CO2",11.686452
+2019,"Other","Reference case MMmt CO2",11.667685
+2018,"Other","Reference case MMmt CO2",11.663636
+2017,"Other","Reference case MMmt CO2",11.650101
+2050,"Other","High economic growth MMmt CO2",12.97876
+2049,"Other","High economic growth MMmt CO2",12.963119
+2048,"Other","High economic growth MMmt CO2",12.943815
+2047,"Other","High economic growth MMmt CO2",12.922359
+2046,"Other","High economic growth MMmt CO2",12.898773
+2045,"Other","High economic growth MMmt CO2",12.871395
+2044,"Other","High economic growth MMmt CO2",12.828922
+2043,"Other","High economic growth MMmt CO2",12.783563
+2042,"Other","High economic growth MMmt CO2",12.758676
+2041,"Other","High economic growth MMmt CO2",12.720278
+2040,"Other","High economic growth MMmt CO2",12.686168
+2039,"Other","High economic growth MMmt CO2",12.64752
+2038,"Other","High economic growth MMmt CO2",12.611522
+2037,"Other","High economic growth MMmt CO2",12.582199
+2036,"Other","High economic growth MMmt CO2",12.552015
+2035,"Other","High economic growth MMmt CO2",12.474071
+2034,"Other","High economic growth MMmt CO2",12.422574
+2033,"Other","High economic growth MMmt CO2",12.367308
+2032,"Other","High economic growth MMmt CO2",12.31233
+2031,"Other","High economic growth MMmt CO2",12.238607
+2030,"Other","High economic growth MMmt CO2",12.181886
+2029,"Other","High economic growth MMmt CO2",12.129514
+2028,"Other","High economic growth MMmt CO2",12.072953
+2027,"Other","High economic growth MMmt CO2",12.008559
+2026,"Other","High economic growth MMmt CO2",11.944092
+2025,"Other","High economic growth MMmt CO2",11.896182
+2024,"Other","High economic growth MMmt CO2",11.843539
+2023,"Other","High economic growth MMmt CO2",11.792065
+2022,"Other","High economic growth MMmt CO2",11.750564
+2021,"Other","High economic growth MMmt CO2",11.708372
+2020,"Other","High economic growth MMmt CO2",11.686493
+2019,"Other","High economic growth MMmt CO2",11.667687
+2018,"Other","High economic growth MMmt CO2",11.663636
+2017,"Other","High economic growth MMmt CO2",11.650101
+2050,"Other","Low economic growth MMmt CO2",12.848627
+2049,"Other","Low economic growth MMmt CO2",12.832898
+2048,"Other","Low economic growth MMmt CO2",12.815167
+2047,"Other","Low economic growth MMmt CO2",12.801385
+2046,"Other","Low economic growth MMmt CO2",12.783274
+2045,"Other","Low economic growth MMmt CO2",12.762842
+2044,"Other","Low economic growth MMmt CO2",12.739676
+2043,"Other","Low economic growth MMmt CO2",12.713384
+2042,"Other","Low economic growth MMmt CO2",12.689003
+2041,"Other","Low economic growth MMmt CO2",12.660371
+2040,"Other","Low economic growth MMmt CO2",12.632328
+2039,"Other","Low economic growth MMmt CO2",12.605083
+2038,"Other","Low economic growth MMmt CO2",12.57698
+2037,"Other","Low economic growth MMmt CO2",12.546503
+2036,"Other","Low economic growth MMmt CO2",12.517128
+2035,"Other","Low economic growth MMmt CO2",12.448704
+2034,"Other","Low economic growth MMmt CO2",12.39823
+2033,"Other","Low economic growth MMmt CO2",12.355761
+2032,"Other","Low economic growth MMmt CO2",12.287329
+2031,"Other","Low economic growth MMmt CO2",12.212469
+2030,"Other","Low economic growth MMmt CO2",12.155236
+2029,"Other","Low economic growth MMmt CO2",12.091313
+2028,"Other","Low economic growth MMmt CO2",12.042455
+2027,"Other","Low economic growth MMmt CO2",11.990674
+2026,"Other","Low economic growth MMmt CO2",11.940159
+2025,"Other","Low economic growth MMmt CO2",11.89751
+2024,"Other","Low economic growth MMmt CO2",11.849773
+2023,"Other","Low economic growth MMmt CO2",11.791872
+2022,"Other","Low economic growth MMmt CO2",11.753592
+2021,"Other","Low economic growth MMmt CO2",11.707622
+2020,"Other","Low economic growth MMmt CO2",11.686498
+2019,"Other","Low economic growth MMmt CO2",11.667685
+2018,"Other","Low economic growth MMmt CO2",11.663636
+2017,"Other","Low economic growth MMmt CO2",11.650101
+2050,"Other","High oil price MMmt CO2",12.981745
+2049,"Other","High oil price MMmt CO2",12.969636
+2048,"Other","High oil price MMmt CO2",12.960035
+2047,"Other","High oil price MMmt CO2",12.949006
+2046,"Other","High oil price MMmt CO2",12.921624
+2045,"Other","High oil price MMmt CO2",12.878971
+2044,"Other","High oil price MMmt CO2",12.853114
+2043,"Other","High oil price MMmt CO2",12.825626
+2042,"Other","High oil price MMmt CO2",12.786663
+2041,"Other","High oil price MMmt CO2",12.719441
+2040,"Other","High oil price MMmt CO2",12.689737
+2039,"Other","High oil price MMmt CO2",12.658998
+2038,"Other","High oil price MMmt CO2",12.631712
+2037,"Other","High oil price MMmt CO2",12.602831
+2036,"Other","High oil price MMmt CO2",12.574234
+2035,"Other","High oil price MMmt CO2",12.501703
+2034,"Other","High oil price MMmt CO2",12.451148
+2033,"Other","High oil price MMmt CO2",12.398246
+2032,"Other","High oil price MMmt CO2",12.335055
+2031,"Other","High oil price MMmt CO2",12.268395
+2030,"Other","High oil price MMmt CO2",12.193725
+2029,"Other","High oil price MMmt CO2",12.137509
+2028,"Other","High oil price MMmt CO2",12.061625
+2027,"Other","High oil price MMmt CO2",11.995727
+2026,"Other","High oil price MMmt CO2",11.932577
+2025,"Other","High oil price MMmt CO2",11.884409
+2024,"Other","High oil price MMmt CO2",11.835276
+2023,"Other","High oil price MMmt CO2",11.789303
+2022,"Other","High oil price MMmt CO2",11.750359
+2021,"Other","High oil price MMmt CO2",11.708463
+2020,"Other","High oil price MMmt CO2",11.686677
+2019,"Other","High oil price MMmt CO2",11.667689
+2018,"Other","High oil price MMmt CO2",11.663636
+2017,"Other","High oil price MMmt CO2",11.650101
+2050,"Other","Low oil price MMmt CO2",12.885592
+2049,"Other","Low oil price MMmt CO2",12.858191
+2048,"Other","Low oil price MMmt CO2",12.836395
+2047,"Other","Low oil price MMmt CO2",12.81796
+2046,"Other","Low oil price MMmt CO2",12.797835
+2045,"Other","Low oil price MMmt CO2",12.776978
+2044,"Other","Low oil price MMmt CO2",12.754004
+2043,"Other","Low oil price MMmt CO2",12.735917
+2042,"Other","Low oil price MMmt CO2",12.713546
+2041,"Other","Low oil price MMmt CO2",12.68645
+2040,"Other","Low oil price MMmt CO2",12.662352
+2039,"Other","Low oil price MMmt CO2",12.641888
+2038,"Other","Low oil price MMmt CO2",12.619349
+2037,"Other","Low oil price MMmt CO2",12.594382
+2036,"Other","Low oil price MMmt CO2",12.559931
+2035,"Other","Low oil price MMmt CO2",12.484957
+2034,"Other","Low oil price MMmt CO2",12.434028
+2033,"Other","Low oil price MMmt CO2",12.372439
+2032,"Other","Low oil price MMmt CO2",12.312235
+2031,"Other","Low oil price MMmt CO2",12.239991
+2030,"Other","Low oil price MMmt CO2",12.167546
+2029,"Other","Low oil price MMmt CO2",12.106671
+2028,"Other","Low oil price MMmt CO2",12.043139
+2027,"Other","Low oil price MMmt CO2",11.990729
+2026,"Other","Low oil price MMmt CO2",11.934467
+2025,"Other","Low oil price MMmt CO2",11.889629
+2024,"Other","Low oil price MMmt CO2",11.838546
+2023,"Other","Low oil price MMmt CO2",11.78417
+2022,"Other","Low oil price MMmt CO2",11.742892
+2021,"Other","Low oil price MMmt CO2",11.708145
+2020,"Other","Low oil price MMmt CO2",11.686524
+2019,"Other","Low oil price MMmt CO2",11.667685
+2018,"Other","Low oil price MMmt CO2",11.663636
+2017,"Other","Low oil price MMmt CO2",11.650101
+2050,"Other","High oil and gas resource and technology MMmt CO2",12.796398
+2049,"Other","High oil and gas resource and technology MMmt CO2",12.780903
+2048,"Other","High oil and gas resource and technology MMmt CO2",12.762729
+2047,"Other","High oil and gas resource and technology MMmt CO2",12.740596
+2046,"Other","High oil and gas resource and technology MMmt CO2",12.718314
+2045,"Other","High oil and gas resource and technology MMmt CO2",12.692379
+2044,"Other","High oil and gas resource and technology MMmt CO2",12.664506
+2043,"Other","High oil and gas resource and technology MMmt CO2",12.63847
+2042,"Other","High oil and gas resource and technology MMmt CO2",12.610218
+2041,"Other","High oil and gas resource and technology MMmt CO2",12.586205
+2040,"Other","High oil and gas resource and technology MMmt CO2",12.560396
+2039,"Other","High oil and gas resource and technology MMmt CO2",12.532536
+2038,"Other","High oil and gas resource and technology MMmt CO2",12.504617
+2037,"Other","High oil and gas resource and technology MMmt CO2",12.470279
+2036,"Other","High oil and gas resource and technology MMmt CO2",12.427889
+2035,"Other","High oil and gas resource and technology MMmt CO2",12.36473
+2034,"Other","High oil and gas resource and technology MMmt CO2",12.319993
+2033,"Other","High oil and gas resource and technology MMmt CO2",12.264015
+2032,"Other","High oil and gas resource and technology MMmt CO2",12.207733
+2031,"Other","High oil and gas resource and technology MMmt CO2",12.162673
+2030,"Other","High oil and gas resource and technology MMmt CO2",12.100962
+2029,"Other","High oil and gas resource and technology MMmt CO2",12.024593
+2028,"Other","High oil and gas resource and technology MMmt CO2",11.967078
+2027,"Other","High oil and gas resource and technology MMmt CO2",11.91445
+2026,"Other","High oil and gas resource and technology MMmt CO2",11.862185
+2025,"Other","High oil and gas resource and technology MMmt CO2",11.820973
+2024,"Other","High oil and gas resource and technology MMmt CO2",11.782198
+2023,"Other","High oil and gas resource and technology MMmt CO2",11.748579
+2022,"Other","High oil and gas resource and technology MMmt CO2",11.728836
+2021,"Other","High oil and gas resource and technology MMmt CO2",11.706687
+2020,"Other","High oil and gas resource and technology MMmt CO2",11.686609
+2019,"Other","High oil and gas resource and technology MMmt CO2",11.66769
+2018,"Other","High oil and gas resource and technology MMmt CO2",11.663636
+2017,"Other","High oil and gas resource and technology MMmt CO2",11.650101
+2050,"Other","Low oil and gas resource and technology MMmt CO2",12.94476
+2049,"Other","Low oil and gas resource and technology MMmt CO2",12.936523
+2048,"Other","Low oil and gas resource and technology MMmt CO2",12.903981
+2047,"Other","Low oil and gas resource and technology MMmt CO2",12.895365
+2046,"Other","Low oil and gas resource and technology MMmt CO2",12.87822
+2045,"Other","Low oil and gas resource and technology MMmt CO2",12.870604
+2044,"Other","Low oil and gas resource and technology MMmt CO2",12.851295
+2043,"Other","Low oil and gas resource and technology MMmt CO2",12.83342
+2042,"Other","Low oil and gas resource and technology MMmt CO2",12.806714
+2041,"Other","Low oil and gas resource and technology MMmt CO2",12.778124
+2040,"Other","Low oil and gas resource and technology MMmt CO2",12.743706
+2039,"Other","Low oil and gas resource and technology MMmt CO2",12.707322
+2038,"Other","Low oil and gas resource and technology MMmt CO2",12.692602
+2037,"Other","Low oil and gas resource and technology MMmt CO2",12.673507
+2036,"Other","Low oil and gas resource and technology MMmt CO2",12.646888
+2035,"Other","Low oil and gas resource and technology MMmt CO2",12.587546
+2034,"Other","Low oil and gas resource and technology MMmt CO2",12.503771
+2033,"Other","Low oil and gas resource and technology MMmt CO2",12.451894
+2032,"Other","Low oil and gas resource and technology MMmt CO2",12.390058
+2031,"Other","Low oil and gas resource and technology MMmt CO2",12.310914
+2030,"Other","Low oil and gas resource and technology MMmt CO2",12.248055
+2029,"Other","Low oil and gas resource and technology MMmt CO2",12.199064
+2028,"Other","Low oil and gas resource and technology MMmt CO2",12.149096
+2027,"Other","Low oil and gas resource and technology MMmt CO2",12.074965
+2026,"Other","Low oil and gas resource and technology MMmt CO2",11.981566
+2025,"Other","Low oil and gas resource and technology MMmt CO2",11.936386
+2024,"Other","Low oil and gas resource and technology MMmt CO2",11.873916
+2023,"Other","Low oil and gas resource and technology MMmt CO2",11.823144
+2022,"Other","Low oil and gas resource and technology MMmt CO2",11.756749
+2021,"Other","Low oil and gas resource and technology MMmt CO2",11.70752
+2020,"Other","Low oil and gas resource and technology MMmt CO2",11.68649
+2019,"Other","Low oil and gas resource and technology MMmt CO2",11.667678
+2018,"Other","Low oil and gas resource and technology MMmt CO2",11.663636
+2017,"Other","Low oil and gas resource and technology MMmt CO2",11.650101
+2050,"Other","AEO2018 without Clean Power Plan MMmt CO2",12.759143
+2049,"Other","AEO2018 without Clean Power Plan MMmt CO2",12.737444
+2048,"Other","AEO2018 without Clean Power Plan MMmt CO2",12.721838
+2047,"Other","AEO2018 without Clean Power Plan MMmt CO2",12.694241
+2046,"Other","AEO2018 without Clean Power Plan MMmt CO2",12.676505
+2045,"Other","AEO2018 without Clean Power Plan MMmt CO2",12.635178
+2044,"Other","AEO2018 without Clean Power Plan MMmt CO2",12.600949
+2043,"Other","AEO2018 without Clean Power Plan MMmt CO2",12.559289
+2042,"Other","AEO2018 without Clean Power Plan MMmt CO2",12.532604
+2041,"Other","AEO2018 without Clean Power Plan MMmt CO2",12.51272
+2040,"Other","AEO2018 without Clean Power Plan MMmt CO2",12.488709
+2039,"Other","AEO2018 without Clean Power Plan MMmt CO2",12.467138
+2038,"Other","AEO2018 without Clean Power Plan MMmt CO2",12.446134
+2037,"Other","AEO2018 without Clean Power Plan MMmt CO2",12.422551
+2036,"Other","AEO2018 without Clean Power Plan MMmt CO2",12.397947
+2035,"Other","AEO2018 without Clean Power Plan MMmt CO2",12.369616
+2034,"Other","AEO2018 without Clean Power Plan MMmt CO2",12.335012
+2033,"Other","AEO2018 without Clean Power Plan MMmt CO2",12.284669
+2032,"Other","AEO2018 without Clean Power Plan MMmt CO2",12.236935
+2031,"Other","AEO2018 without Clean Power Plan MMmt CO2",12.189053
+2030,"Other","AEO2018 without Clean Power Plan MMmt CO2",12.113466
+2029,"Other","AEO2018 without Clean Power Plan MMmt CO2",12.046885
+2028,"Other","AEO2018 without Clean Power Plan MMmt CO2",11.975236
+2027,"Other","AEO2018 without Clean Power Plan MMmt CO2",11.902133
+2026,"Other","AEO2018 without Clean Power Plan MMmt CO2",11.835047
+2025,"Other","AEO2018 without Clean Power Plan MMmt CO2",11.787724
+2024,"Other","AEO2018 without Clean Power Plan MMmt CO2",11.734626
+2023,"Other","AEO2018 without Clean Power Plan MMmt CO2",11.672891
+2022,"Other","AEO2018 without Clean Power Plan MMmt CO2",11.604795
+2021,"Other","AEO2018 without Clean Power Plan MMmt CO2",11.544914
+2020,"Other","AEO2018 without Clean Power Plan MMmt CO2",11.499091
+2019,"Other","AEO2018 without Clean Power Plan MMmt CO2",11.500975
+2018,"Other","AEO2018 without Clean Power Plan MMmt CO2",11.501672
+2017,"Other","AEO2018 without Clean Power Plan MMmt CO2",11.508928
+2050,"Total","Reference case MMmt CO2",5019.435059
+2049,"Total","Reference case MMmt CO2",4999.008301
+2048,"Total","Reference case MMmt CO2",4985.723145
+2047,"Total","Reference case MMmt CO2",4960.033203
+2046,"Total","Reference case MMmt CO2",4941.621094
+2045,"Total","Reference case MMmt CO2",4927.332031
+2044,"Total","Reference case MMmt CO2",4901.607422
+2043,"Total","Reference case MMmt CO2",4882.719238
+2042,"Total","Reference case MMmt CO2",4872.26709
+2041,"Total","Reference case MMmt CO2",4860.300293
+2040,"Total","Reference case MMmt CO2",4855.758789
+2039,"Total","Reference case MMmt CO2",4841.079102
+2038,"Total","Reference case MMmt CO2",4837.70459
+2037,"Total","Reference case MMmt CO2",4831.463379
+2036,"Total","Reference case MMmt CO2",4830.158691
+2035,"Total","Reference case MMmt CO2",4830.092773
+2034,"Total","Reference case MMmt CO2",4837.774902
+2033,"Total","Reference case MMmt CO2",4851.078613
+2032,"Total","Reference case MMmt CO2",4861.759766
+2031,"Total","Reference case MMmt CO2",4884.848633
+2030,"Total","Reference case MMmt CO2",4902.97168
+2029,"Total","Reference case MMmt CO2",4919.817383
+2028,"Total","Reference case MMmt CO2",4927.348145
+2027,"Total","Reference case MMmt CO2",4935.13916
+2026,"Total","Reference case MMmt CO2",4958.641113
+2025,"Total","Reference case MMmt CO2",4976.726074
+2024,"Total","Reference case MMmt CO2",4994.32373
+2023,"Total","Reference case MMmt CO2",5014.93457
+2022,"Total","Reference case MMmt CO2",5038.010254
+2021,"Total","Reference case MMmt CO2",5050.218262
+2020,"Total","Reference case MMmt CO2",5115.720215
+2019,"Total","Reference case MMmt CO2",5216.536621
+2018,"Total","Reference case MMmt CO2",5249.700684
+2017,"Total","Reference case MMmt CO2",5146.956543
+2050,"Total","High economic growth MMmt CO2",5398.587891
+2049,"Total","High economic growth MMmt CO2",5358.549805
+2048,"Total","High economic growth MMmt CO2",5329.378906
+2047,"Total","High economic growth MMmt CO2",5289.284668
+2046,"Total","High economic growth MMmt CO2",5264.779785
+2045,"Total","High economic growth MMmt CO2",5243.118164
+2044,"Total","High economic growth MMmt CO2",5213.812012
+2043,"Total","High economic growth MMmt CO2",5184.01123
+2042,"Total","High economic growth MMmt CO2",5155.632812
+2041,"Total","High economic growth MMmt CO2",5131.629395
+2040,"Total","High economic growth MMmt CO2",5105.429199
+2039,"Total","High economic growth MMmt CO2",5086.951172
+2038,"Total","High economic growth MMmt CO2",5061.20459
+2037,"Total","High economic growth MMmt CO2",5026.43457
+2036,"Total","High economic growth MMmt CO2",4999.743652
+2035,"Total","High economic growth MMmt CO2",4985.20459
+2034,"Total","High economic growth MMmt CO2",4978.097168
+2033,"Total","High economic growth MMmt CO2",4975.606445
+2032,"Total","High economic growth MMmt CO2",4988.480957
+2031,"Total","High economic growth MMmt CO2",4990.265137
+2030,"Total","High economic growth MMmt CO2",4999.075684
+2029,"Total","High economic growth MMmt CO2",4997.260254
+2028,"Total","High economic growth MMmt CO2",5001.654785
+2027,"Total","High economic growth MMmt CO2",5001.828125
+2026,"Total","High economic growth MMmt CO2",5013.147461
+2025,"Total","High economic growth MMmt CO2",5029.566406
+2024,"Total","High economic growth MMmt CO2",5038.611328
+2023,"Total","High economic growth MMmt CO2",5050.385742
+2022,"Total","High economic growth MMmt CO2",5071.848145
+2021,"Total","High economic growth MMmt CO2",5076.439453
+2020,"Total","High economic growth MMmt CO2",5128.797852
+2019,"Total","High economic growth MMmt CO2",5223.006836
+2018,"Total","High economic growth MMmt CO2",5251.459473
+2017,"Total","High economic growth MMmt CO2",5146.956543
+2050,"Total","Low economic growth MMmt CO2",4605.677734
+2049,"Total","Low economic growth MMmt CO2",4595.766113
+2048,"Total","Low economic growth MMmt CO2",4592.81543
+2047,"Total","Low economic growth MMmt CO2",4586.071289
+2046,"Total","Low economic growth MMmt CO2",4584.070312
+2045,"Total","Low economic growth MMmt CO2",4586.519531
+2044,"Total","Low economic growth MMmt CO2",4579.001953
+2043,"Total","Low economic growth MMmt CO2",4578.844238
+2042,"Total","Low economic growth MMmt CO2",4577.318359
+2041,"Total","Low economic growth MMmt CO2",4583.503906
+2040,"Total","Low economic growth MMmt CO2",4592.67334
+2039,"Total","Low economic growth MMmt CO2",4598.019043
+2038,"Total","Low economic growth MMmt CO2",4600.367188
+2037,"Total","Low economic growth MMmt CO2",4597.702637
+2036,"Total","Low economic growth MMmt CO2",4612.620605
+2035,"Total","Low economic growth MMmt CO2",4619.765137
+2034,"Total","Low economic growth MMmt CO2",4640.664551
+2033,"Total","Low economic growth MMmt CO2",4654.67334
+2032,"Total","Low economic growth MMmt CO2",4687.887695
+2031,"Total","Low economic growth MMmt CO2",4717.23291
+2030,"Total","Low economic growth MMmt CO2",4748.853516
+2029,"Total","Low economic growth MMmt CO2",4774.407715
+2028,"Total","Low economic growth MMmt CO2",4780.075684
+2027,"Total","Low economic growth MMmt CO2",4805.723633
+2026,"Total","Low economic growth MMmt CO2",4839.991211
+2025,"Total","Low economic growth MMmt CO2",4876.123047
+2024,"Total","Low economic growth MMmt CO2",4915.155762
+2023,"Total","Low economic growth MMmt CO2",4943.355957
+2022,"Total","Low economic growth MMmt CO2",4969.772949
+2021,"Total","Low economic growth MMmt CO2",4994.53125
+2020,"Total","Low economic growth MMmt CO2",5086.327148
+2019,"Total","Low economic growth MMmt CO2",5231.144043
+2018,"Total","Low economic growth MMmt CO2",5251.400879
+2017,"Total","Low economic growth MMmt CO2",5146.956543
+2050,"Total","High oil price MMmt CO2",4708.120605
+2049,"Total","High oil price MMmt CO2",4696.444824
+2048,"Total","High oil price MMmt CO2",4681.584961
+2047,"Total","High oil price MMmt CO2",4671.199219
+2046,"Total","High oil price MMmt CO2",4669.127441
+2045,"Total","High oil price MMmt CO2",4665.073242
+2044,"Total","High oil price MMmt CO2",4665.921387
+2043,"Total","High oil price MMmt CO2",4672.027344
+2042,"Total","High oil price MMmt CO2",4678.321289
+2041,"Total","High oil price MMmt CO2",4685.96582
+2040,"Total","High oil price MMmt CO2",4687.803223
+2039,"Total","High oil price MMmt CO2",4697.717773
+2038,"Total","High oil price MMmt CO2",4704.749023
+2037,"Total","High oil price MMmt CO2",4709.691895
+2036,"Total","High oil price MMmt CO2",4708.503906
+2035,"Total","High oil price MMmt CO2",4711.462402
+2034,"Total","High oil price MMmt CO2",4715.685059
+2033,"Total","High oil price MMmt CO2",4719.034668
+2032,"Total","High oil price MMmt CO2",4708.807617
+2031,"Total","High oil price MMmt CO2",4707.36084
+2030,"Total","High oil price MMmt CO2",4711.873535
+2029,"Total","High oil price MMmt CO2",4720.28125
+2028,"Total","High oil price MMmt CO2",4740.412109
+2027,"Total","High oil price MMmt CO2",4770.375
+2026,"Total","High oil price MMmt CO2",4836.884766
+2025,"Total","High oil price MMmt CO2",4878.77832
+2024,"Total","High oil price MMmt CO2",4925.450195
+2023,"Total","High oil price MMmt CO2",4947.041016
+2022,"Total","High oil price MMmt CO2",5000.599121
+2021,"Total","High oil price MMmt CO2",5025.967285
+2020,"Total","High oil price MMmt CO2",5106.73291
+2019,"Total","High oil price MMmt CO2",5225.57666
+2018,"Total","High oil price MMmt CO2",5249.455566
+2017,"Total","High oil price MMmt CO2",5146.956543
+2050,"Total","Low oil price MMmt CO2",5327.829102
+2049,"Total","Low oil price MMmt CO2",5281.992188
+2048,"Total","Low oil price MMmt CO2",5252.910156
+2047,"Total","Low oil price MMmt CO2",5237.898926
+2046,"Total","Low oil price MMmt CO2",5202.55957
+2045,"Total","Low oil price MMmt CO2",5171.789551
+2044,"Total","Low oil price MMmt CO2",5131.805176
+2043,"Total","Low oil price MMmt CO2",5101.209473
+2042,"Total","Low oil price MMmt CO2",5080.881836
+2041,"Total","Low oil price MMmt CO2",5056.629883
+2040,"Total","Low oil price MMmt CO2",5038.228516
+2039,"Total","Low oil price MMmt CO2",5015.563965
+2038,"Total","Low oil price MMmt CO2",5000.445312
+2037,"Total","Low oil price MMmt CO2",4975.033691
+2036,"Total","Low oil price MMmt CO2",4965.908203
+2035,"Total","Low oil price MMmt CO2",4958.066895
+2034,"Total","Low oil price MMmt CO2",4951.149902
+2033,"Total","Low oil price MMmt CO2",4949.324707
+2032,"Total","Low oil price MMmt CO2",4958.584473
+2031,"Total","Low oil price MMmt CO2",4953.072754
+2030,"Total","Low oil price MMmt CO2",4963.162598
+2029,"Total","Low oil price MMmt CO2",4958.202148
+2028,"Total","Low oil price MMmt CO2",4975.197266
+2027,"Total","Low oil price MMmt CO2",4977.539062
+2026,"Total","Low oil price MMmt CO2",4988.453125
+2025,"Total","Low oil price MMmt CO2",4998.303223
+2024,"Total","Low oil price MMmt CO2",5005.09375
+2023,"Total","Low oil price MMmt CO2",5031.268066
+2022,"Total","Low oil price MMmt CO2",5045.859863
+2021,"Total","Low oil price MMmt CO2",5056.87793
+2020,"Total","Low oil price MMmt CO2",5104.326172
+2019,"Total","Low oil price MMmt CO2",5218.452637
+2018,"Total","Low oil price MMmt CO2",5249.549316
+2017,"Total","Low oil price MMmt CO2",5146.956543
+2050,"Total","High oil and gas resource and technology MMmt CO2",5197.561523
+2049,"Total","High oil and gas resource and technology MMmt CO2",5163.299805
+2048,"Total","High oil and gas resource and technology MMmt CO2",5140.010742
+2047,"Total","High oil and gas resource and technology MMmt CO2",5114.200684
+2046,"Total","High oil and gas resource and technology MMmt CO2",5088.144043
+2045,"Total","High oil and gas resource and technology MMmt CO2",5058.734375
+2044,"Total","High oil and gas resource and technology MMmt CO2",5032.406738
+2043,"Total","High oil and gas resource and technology MMmt CO2",5003.46582
+2042,"Total","High oil and gas resource and technology MMmt CO2",4978.887207
+2041,"Total","High oil and gas resource and technology MMmt CO2",4963.849609
+2040,"Total","High oil and gas resource and technology MMmt CO2",4951.221191
+2039,"Total","High oil and gas resource and technology MMmt CO2",4943.838379
+2038,"Total","High oil and gas resource and technology MMmt CO2",4934.763672
+2037,"Total","High oil and gas resource and technology MMmt CO2",4934.102539
+2036,"Total","High oil and gas resource and technology MMmt CO2",4920.424316
+2035,"Total","High oil and gas resource and technology MMmt CO2",4910.110352
+2034,"Total","High oil and gas resource and technology MMmt CO2",4922.910156
+2033,"Total","High oil and gas resource and technology MMmt CO2",4923.092285
+2032,"Total","High oil and gas resource and technology MMmt CO2",4932.505859
+2031,"Total","High oil and gas resource and technology MMmt CO2",4932.414551
+2030,"Total","High oil and gas resource and technology MMmt CO2",4937.360352
+2029,"Total","High oil and gas resource and technology MMmt CO2",4916.255859
+2028,"Total","High oil and gas resource and technology MMmt CO2",4932.902344
+2027,"Total","High oil and gas resource and technology MMmt CO2",4965.605469
+2026,"Total","High oil and gas resource and technology MMmt CO2",4995.981934
+2025,"Total","High oil and gas resource and technology MMmt CO2",5023.734863
+2024,"Total","High oil and gas resource and technology MMmt CO2",5034.675781
+2023,"Total","High oil and gas resource and technology MMmt CO2",5032.126953
+2022,"Total","High oil and gas resource and technology MMmt CO2",5027.620605
+2021,"Total","High oil and gas resource and technology MMmt CO2",5035.560547
+2020,"Total","High oil and gas resource and technology MMmt CO2",5094.813965
+2019,"Total","High oil and gas resource and technology MMmt CO2",5247.391602
+2018,"Total","High oil and gas resource and technology MMmt CO2",5250.993652
+2017,"Total","High oil and gas resource and technology MMmt CO2",5146.956543
+2050,"Total","Low oil and gas resource and technology MMmt CO2",4790.684082
+2049,"Total","Low oil and gas resource and technology MMmt CO2",4768.779297
+2048,"Total","Low oil and gas resource and technology MMmt CO2",4751.112793
+2047,"Total","Low oil and gas resource and technology MMmt CO2",4729.894043
+2046,"Total","Low oil and gas resource and technology MMmt CO2",4711.128418
+2045,"Total","Low oil and gas resource and technology MMmt CO2",4684.875977
+2044,"Total","Low oil and gas resource and technology MMmt CO2",4676.507324
+2043,"Total","Low oil and gas resource and technology MMmt CO2",4677.299805
+2042,"Total","Low oil and gas resource and technology MMmt CO2",4664.878418
+2041,"Total","Low oil and gas resource and technology MMmt CO2",4673.626953
+2040,"Total","Low oil and gas resource and technology MMmt CO2",4672.237793
+2039,"Total","Low oil and gas resource and technology MMmt CO2",4675.342773
+2038,"Total","Low oil and gas resource and technology MMmt CO2",4683.871582
+2037,"Total","Low oil and gas resource and technology MMmt CO2",4686.708496
+2036,"Total","Low oil and gas resource and technology MMmt CO2",4686.620605
+2035,"Total","Low oil and gas resource and technology MMmt CO2",4685.355957
+2034,"Total","Low oil and gas resource and technology MMmt CO2",4708.138184
+2033,"Total","Low oil and gas resource and technology MMmt CO2",4720.166504
+2032,"Total","Low oil and gas resource and technology MMmt CO2",4740.898438
+2031,"Total","Low oil and gas resource and technology MMmt CO2",4755.319824
+2030,"Total","Low oil and gas resource and technology MMmt CO2",4780.068359
+2029,"Total","Low oil and gas resource and technology MMmt CO2",4804.661133
+2028,"Total","Low oil and gas resource and technology MMmt CO2",4836.637207
+2027,"Total","Low oil and gas resource and technology MMmt CO2",4860.604492
+2026,"Total","Low oil and gas resource and technology MMmt CO2",4895.835938
+2025,"Total","Low oil and gas resource and technology MMmt CO2",4928.90332
+2024,"Total","Low oil and gas resource and technology MMmt CO2",4949.790527
+2023,"Total","Low oil and gas resource and technology MMmt CO2",4976.373047
+2022,"Total","Low oil and gas resource and technology MMmt CO2",5040.764648
+2021,"Total","Low oil and gas resource and technology MMmt CO2",5071.57666
+2020,"Total","Low oil and gas resource and technology MMmt CO2",5123.22168
+2019,"Total","Low oil and gas resource and technology MMmt CO2",5196.609375
+2018,"Total","Low oil and gas resource and technology MMmt CO2",5251.758301
+2017,"Total","Low oil and gas resource and technology MMmt CO2",5146.956543
+2050,"Total","AEO2018 without Clean Power Plan MMmt CO2",5278.694824
+2049,"Total","AEO2018 without Clean Power Plan MMmt CO2",5247.441406
+2048,"Total","AEO2018 without Clean Power Plan MMmt CO2",5217.349609
+2047,"Total","AEO2018 without Clean Power Plan MMmt CO2",5192.442383
+2046,"Total","AEO2018 without Clean Power Plan MMmt CO2",5170.994629
+2045,"Total","AEO2018 without Clean Power Plan MMmt CO2",5158.992676
+2044,"Total","AEO2018 without Clean Power Plan MMmt CO2",5144.179199
+2043,"Total","AEO2018 without Clean Power Plan MMmt CO2",5122.162598
+2042,"Total","AEO2018 without Clean Power Plan MMmt CO2",5104.822754
+2041,"Total","AEO2018 without Clean Power Plan MMmt CO2",5094.998047
+2040,"Total","AEO2018 without Clean Power Plan MMmt CO2",5080.412109
+2039,"Total","AEO2018 without Clean Power Plan MMmt CO2",5067.51709
+2038,"Total","AEO2018 without Clean Power Plan MMmt CO2",5055.958496
+2037,"Total","AEO2018 without Clean Power Plan MMmt CO2",5045.25293
+2036,"Total","AEO2018 without Clean Power Plan MMmt CO2",5035.44043
+2035,"Total","AEO2018 without Clean Power Plan MMmt CO2",5023.947266
+2034,"Total","AEO2018 without Clean Power Plan MMmt CO2",5024.732422
+2033,"Total","AEO2018 without Clean Power Plan MMmt CO2",5022.008789
+2032,"Total","AEO2018 without Clean Power Plan MMmt CO2",5030.085449
+2031,"Total","AEO2018 without Clean Power Plan MMmt CO2",5043.034668
+2030,"Total","AEO2018 without Clean Power Plan MMmt CO2",5053.151367
+2029,"Total","AEO2018 without Clean Power Plan MMmt CO2",5059.814941
+2028,"Total","AEO2018 without Clean Power Plan MMmt CO2",5062.068848
+2027,"Total","AEO2018 without Clean Power Plan MMmt CO2",5067.150879
+2026,"Total","AEO2018 without Clean Power Plan MMmt CO2",5074.818848
+2025,"Total","AEO2018 without Clean Power Plan MMmt CO2",5079.057129
+2024,"Total","AEO2018 without Clean Power Plan MMmt CO2",5085.529785
+2023,"Total","AEO2018 without Clean Power Plan MMmt CO2",5077.725586
+2022,"Total","AEO2018 without Clean Power Plan MMmt CO2",5087.94043
+2021,"Total","AEO2018 without Clean Power Plan MMmt CO2",5136.324219
+2020,"Total","AEO2018 without Clean Power Plan MMmt CO2",5186.887207
+2019,"Total","AEO2018 without Clean Power Plan MMmt CO2",5229.712891
+2018,"Total","AEO2018 without Clean Power Plan MMmt CO2",5256.842773
+2017,"Total","AEO2018 without Clean Power Plan MMmt CO2",5150.503906
