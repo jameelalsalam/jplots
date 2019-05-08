@@ -9,6 +9,11 @@ ggplot(ei_ex,
            position = position_dodge2(preserve = "single",
                                       padding = 0))
 
+# attempt 1b
+ggplot(ei_ex, 
+       aes(x = naics, y = ei, width =  vos, fill = naics)) +
+  geom_col()
+
 # attempt 2
 ggplot(ei_ex, 
        aes(xmin = 0,
@@ -39,5 +44,9 @@ ggplot(ei_ex2,
 library(tidyverse)
 devtools::load_all(".")
 area_bar_plot(ei_ex, xname = vos, yname = ei, fillname = naics)
+
+ggplot(ei_ex,
+       mapping = aes(x=vos, y=ei, fill = naics)) + 
+  geom_area_bar(color = "black")
 
 
