@@ -42,3 +42,26 @@ ggplot(ei_ex,
   geom_area_bar(color = "black")
 ```
 
+
+```{r}
+
+envelope_fig(aeo_ex, xname = year, yname = emissions, 
+             groupname = scenario, 
+             facetname = fuel)
+
+```
+
+
+
+```{r}
+
+ggplot(aeo_ex,
+       mapping = aes(x = year,
+                     y = emissions)) +
+  facet_grid(. ~ fuel) +
+  geom_line(aes(group = scenario), color = "light blue")
+  
+
+
+```
+

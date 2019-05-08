@@ -2,6 +2,7 @@
 
 export("%>%")
 export(GeomAreaBar)
+export(envelope_fig)
 export(geom_area_bar)
 import(ggplot2)
 import(rlang)

@@ -35,3 +35,23 @@ ggplot(ei_ex,
 ```
 
 <img src="man/figures/README-example-1.png" width="100%" />
+
+``` r
+
+envelope_fig(aeo_ex, xname = year, yname = emissions, 
+             groupname = scenario, 
+             facetname = fuel)
+```
+
+<img src="man/figures/README-unnamed-chunk-2-1.png" width="100%" />
+
+``` r
+
+ggplot(aeo_ex,
+       mapping = aes(x = year,
+                     y = emissions)) +
+  facet_grid(. ~ fuel) +
+  geom_line(aes(group = scenario), color = "light blue")
+```
+
+<img src="man/figures/README-unnamed-chunk-3-1.png" width="100%" />
