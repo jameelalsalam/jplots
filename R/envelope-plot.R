@@ -1,6 +1,10 @@
-# envelope-plot
-
-
+#' envelope-plot
+#' 
+#' @param data to be plotted
+#' @param xname name of x aesthetic variable
+#' @param yname name of y aesthetic variable
+#' @param groupname name of variable to define groups
+#' @param facetname name of facet column variable
 #' @export
 envelope_fig <- function(data, xname, yname, groupname, facetname) {
   

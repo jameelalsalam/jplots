@@ -8,11 +8,13 @@ Authors@R:
            email = "alsalam.jameel@epa.gov",
            comment = c(ORCID = "YOUR-ORCID-ID"))
 Description: What the package does (one paragraph).
-License: What license it uses
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 6.1.1
+Depends:
+    R (>= 3.1.0)
 Imports: 
     magrittr,
     rlang,

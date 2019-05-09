@@ -1,6 +1,8 @@
-# Various attempts to make a bar graph with specified widths, on top of ggplot2
-
-
+#' Variable width bars
+#' 
+#' Create bar charts with meaningful heights (using the y aesthetic) and widths (using the x aesthetic). Bars are presented with no gaps in between so that the x-axis is meaningful.
+#'
+#' @inheritParams ggplot2::geom_bar
 #' @export
 geom_area_bar <- function(mapping = NULL, data = NULL,
                      position = "stack",
@@ -26,6 +28,7 @@ geom_area_bar <- function(mapping = NULL, data = NULL,
   )
 }
 
+#' @rdname geom_area_bar
 #' @format NULL
 #' @usage NULL
 #' @export

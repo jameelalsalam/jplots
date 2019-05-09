@@ -1,5 +1,6 @@
-# envelope-geom
-
+#' Envelopes around groups of lines
+#' 
+#' @inheritParams ggplot2::geom_line
 #' @export
 geom_envelope <- function(mapping = NULL, data = NULL, stat = "identity",
                       position = "stack", na.rm = FALSE, show.legend = NA,
@@ -19,7 +20,7 @@ geom_envelope <- function(mapping = NULL, data = NULL, stat = "identity",
   )
 }
 
-#' @rdname ggplot2-ggproto
+#' @rdname geom_envelope
 #' @format NULL
 #' @usage NULL
 #' @export
