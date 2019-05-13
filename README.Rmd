@@ -59,7 +59,8 @@ ggplot(aeo_ex,
        mapping = aes(x = year,
                      y = emissions)) +
   facet_grid(. ~ fuel) +
-  geom_line(aes(group = scenario), color = "light blue")
+  geom_line(aes(group = scenario), color = "light blue") +
+  geom_envelope(aes(fill = fuel))
   
 
 
