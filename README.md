@@ -36,6 +36,9 @@ ggplot(ei_ex,
 
 <img src="man/figures/README-example-1.png" width="100%" />
 
+This version uses the `envelope_fig` function which constructs the
+entire plot:
+
 ``` r
 
 envelope_fig(aeo_ex, xname = year, yname = emissions, 
@@ -45,13 +48,39 @@ envelope_fig(aeo_ex, xname = year, yname = emissions,
 
 <img src="man/figures/README-unnamed-chunk-2-1.png" width="100%" />
 
+However, this approach is not as flexible as using the official ggplot2
+extension approach. The following approach extends `geom_ribbon` with a
+new function `geom_envelope` that calculates the minimum/maximum at each
+value of `y` and draws an envelope around that range.
+
 ``` r
 
 ggplot(aeo_ex,
        mapping = aes(x = year,
                      y = emissions)) +
   facet_grid(. ~ fuel) +
-  geom_line(aes(group = scenario), color = "light blue")
+  geom_line(aes(group = scenario), 
+            color = "light blue") +
+  geom_envelope(aes(fill = fuel))
 ```
 
 <img src="man/figures/README-unnamed-chunk-3-1.png" width="100%" />
+
+This approach allows re-mixing the geometry in different ways, e.g.,
+without the facetting:
+
+``` r
+ggplot(aeo_ex,
+       mapping = aes(x = year,
+                     y = emissions)) +
+  geom_line(aes(group = interaction(fuel, scenario)), 
+                color = "light blue") +
+  geom_envelope(aes(fill = fuel, group = fuel))
+```
+
+<img src="man/figures/README-unnamed-chunk-4-1.png" width="100%" />
+
+One important detail: the line geom and the envelope geom have different
+groupings, so the group aesthetic will have to be specified in one or
+both geoms. The `interaction` function is useful to group by the
+interaction of two variables on the fly.

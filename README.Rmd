@@ -42,6 +42,7 @@ ggplot(ei_ex,
   geom_area_bar(color = "black")
 ```
 
+This version uses the `envelope_fig` function which constructs the entire plot:
 
 ```{r}
 
@@ -51,7 +52,7 @@ envelope_fig(aeo_ex, xname = year, yname = emissions,
 
 ```
 
-
+However, this approach is not as flexible as using the official ggplot2 extension approach. The following approach extends `geom_ribbon` with a new function `geom_envelope` that calculates the minimum/maximum at each value of `y` and draws an envelope around that range.
 
 ```{r}
 
@@ -59,10 +60,22 @@ ggplot(aeo_ex,
        mapping = aes(x = year,
                      y = emissions)) +
   facet_grid(. ~ fuel) +
-  geom_line(aes(group = scenario), color = "light blue") +
+  geom_line(aes(group = scenario), 
+            color = "light blue") +
   geom_envelope(aes(fill = fuel))
-  
-
 
 ```
+
+This approach allows re-mixing the geometry in different ways, e.g., without the facetting:
+
+```{r}
+ggplot(aeo_ex,
+       mapping = aes(x = year,
+                     y = emissions)) +
+  geom_line(aes(group = interaction(fuel, scenario)), 
+                color = "light blue") +
+  geom_envelope(aes(fill = fuel, group = fuel))
+```
+
+One important detail: the line geom and the envelope geom have different groupings, so the group aesthetic will have to be specified in one or both geoms. The `interaction` function is useful to group by the interaction of two variables on the fly.
 
