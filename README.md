@@ -7,7 +7,7 @@
 
 <!-- badges: end -->
 
-The goal of jplots is to provide some custom plot functions.
+The goal of jplots is to provide some customized plot functions.
 
 ## Installation
 
