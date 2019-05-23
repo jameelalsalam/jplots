@@ -3,11 +3,11 @@
 \docType{data}
 \name{geom_envelope}
 \alias{geom_envelope}
-\alias{GeomArea}
+\alias{GeomEnvelope}
 \title{Envelopes around groups of lines}
 \usage{
 geom_envelope(mapping = NULL, data = NULL, stat = "identity",
-  position = "stack", na.rm = FALSE, show.legend = NA,
+  position = "identity", na.rm = FALSE, show.legend = NA,
   inherit.aes = TRUE, ...)
 }
 \arguments{
