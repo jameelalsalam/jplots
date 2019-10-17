@@ -9,8 +9,6 @@
 #'@param data within which to interpolate
 #'@param x_var
 #'@param y_var string or symbol of the value variable being interpolated
-#'@param result_var where to put resulting y + interpolation data
-#'@param interp_var where to put *only* interpolated values
 #'@param by_vars character vector of variables that define grouping
 #'
 #'@import dplyr
@@ -21,11 +19,9 @@
 interpolate_data <- function(.data, x_var, y_var, result_var, interp_var, by_vars) {
   
   # currently all required.
-  # TODO: make these not required!
+  # TODO: add back result_var and interp_var?
   x_var <- rlang::ensym(x_var)
   y_var <- rlang::ensym(y_var)
-  result_var <- rlang::ensym(result_var)
-  interp_var <- rlang::ensym(interp_var)
   by_vars   <- rlang::syms(by_vars)
   
   
@@ -47,12 +43,13 @@ interpolate_data <- function(.data, x_var, y_var, result_var, interp_var, by_var
     mutate(int_pts = map(data,
                          .f = ~ safe_approx(x=.[[x_var]], y=.[[y_var]], xout = .[[x_var]]) )) %>%
     mutate(int_pts = map(int_pts,
-                         ~select(.x, !!result_var := y,
+                         ~select(.x, !!y_var := y,
                                  ))) %>%
+    mutate(data = map(data, ~select(.x, -!! y_var))) %>%
     
     unnest(cols = c(data, int_pts)) %>%
-    mutate(!!interp_var := ifelse(is.na(!! y_var), !!result_var, NA_real_)) %>%
-    select(!!!by_vars, !!x_var, !!result_var, !!y_var, !!interp_var)
+    
+    select(!!!by_vars, !!x_var, !!y_var)
   
   data_interpolated
 }
