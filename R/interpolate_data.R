@@ -4,11 +4,13 @@
 #' 
 #' This function is an awkward fit for this package, but I didn't know where to put it!
 #' 
+#' The additional variable specifications, result_var and interp_var, can be useful for debugging because they provide the constituent detailed data.
+#' 
 #'@param data within which to interpolate
 #'@param x_var
 #'@param y_var string or symbol of the value variable being interpolated
-#'@param result_var
-#'@param interp_var
+#'@param result_var where to put resulting y + interpolation data
+#'@param interp_var where to put *only* interpolated values
 #'@param by_vars character vector of variables that define grouping
 #'
 #'@import dplyr
