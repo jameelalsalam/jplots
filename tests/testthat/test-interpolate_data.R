@@ -13,6 +13,15 @@ d_int <- d %>% interpolate_data(
   by_vars = c("id")
 )
 
+# plain approx seems simple enough:
+d %>%
+  complete(id, x) %>%
+  group_by(id) %>%
+  mutate(val = approx(x, val, x)$y) %>%
+  ungroup() %>%
+  all.equal(d_int)
+  
+
 # d_int2 <- d %>% interpolate_data(
 #   x_var = x, y_var = val, 
 #   #result_var = "val2", interp_var = "x2",

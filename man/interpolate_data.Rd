@@ -9,10 +9,6 @@ interpolate_data(.data, x_var, y_var, result_var, interp_var, by_vars)
 \arguments{
 \item{y_var}{string or symbol of the value variable being interpolated}
 
-\item{result_var}{where to put resulting y + interpolation data}
-
-\item{interp_var}{where to put \emph{only} interpolated values}
-
 \item{by_vars}{character vector of variables that define grouping}
 
 \item{data}{within which to interpolate}
@@ -24,7 +20,4 @@ Plotting envelopes or computing min/max/percentile statistics over a time series
 This function is an awkward fit for this package, but I didn't know where to put it!
 
 The additional variable specifications, result_var and interp_var, can be useful for debugging because they provide the constituent detailed data.
-}
-\examples{
-
 }

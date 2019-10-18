@@ -13,9 +13,8 @@
 #'
 #'@import dplyr
 #'@import tidyr
-#'@export
-#'@examples
 #'
+#'@export
 interpolate_data <- function(.data, x_var, y_var, result_var, interp_var, by_vars) {
   
   # currently all required.
