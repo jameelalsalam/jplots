@@ -7,7 +7,6 @@
 geom_area_bar <- function(mapping = NULL, data = NULL,
                      position = "identity",
                      ...,
-                     width = NULL,
                      na.rm = FALSE,
                      show.legend = NA,
                      inherit.aes = TRUE) {
@@ -21,7 +20,6 @@ geom_area_bar <- function(mapping = NULL, data = NULL,
     show.legend = show.legend,
     inherit.aes = inherit.aes,
     params = list(
-      width = width,
       na.rm = na.rm,
       ...
     )

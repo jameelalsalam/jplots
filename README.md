@@ -22,7 +22,7 @@ devtools::install_github("jameelalsalam/jplots")
 ## Example
 
 The function `geom_area_bar` constructs variable-width bars. Unlike the
-`width` parameter to `geom_bar`, this treats the x axis as a numeric
+`width` parameter to `geom_bar`, this treats the x-axis as a numeric
 scale. For this reason there is no gap between the area\_bars (as the
 gap would create offset on x-axis scale).
 
@@ -35,7 +35,6 @@ ggplot(ei_ex,
            y = ei,
            fill = naics)) +
   geom_area_bar(color = "black")
-#> Warning: Ignoring unknown parameters: width
 ```
 
 <img src="man/figures/README-example-1.png" width="100%" />
@@ -49,7 +48,6 @@ ggplot(ei_ex,
            fill = naics)) +
   facet_grid(rows = vars(stringr::str_sub(naics, 4, 4) == "2")) +
   geom_area_bar(color = "black")
-#> Warning: Ignoring unknown parameters: width
 ```
 
 <img src="man/figures/README-areabarfacet-1.png" width="100%" />
