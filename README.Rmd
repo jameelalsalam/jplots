@@ -42,6 +42,20 @@ ggplot(ei_ex,
   geom_area_bar(color = "black")
 ```
 
+It now handles facets:
+
+```{r areabarfacet}
+ggplot(ei_ex,
+       aes(x = vos,
+           y = ei,
+           fill = naics)) +
+  facet_grid(rows = vars(stringr::str_sub(naics, 4, 4) == "2")) +
+  geom_area_bar(color = "black")
+
+
+```
+
+
 There are also custom functions to create an "envelope" around a set of lines, as a way to summarize multiple series.
 
 This version uses the `envelope_fig` function which constructs the entire plot:
