@@ -4,7 +4,9 @@
 \name{aeo_ex}
 \alias{aeo_ex}
 \title{Emissions by fuel from the 2019 Annual Energy Outlook}
-\format{A dataframe with y rows and x columns}
+\format{
+A dataframe with y rows and x columns
+}
 \usage{
 aeo_ex
 }

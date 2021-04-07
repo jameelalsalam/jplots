@@ -4,7 +4,9 @@
 \name{ei_ex}
 \alias{ei_ex}
 \title{Energy-intensity and value-of-shipments by NAICS codes}
-\format{A dataframe with y rows and x columns}
+\format{
+A dataframe with y rows and x columns
+}
 \usage{
 ei_ex
 }

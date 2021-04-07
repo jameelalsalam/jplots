@@ -3,6 +3,7 @@
 export("%>%")
 export(GeomAreaBar)
 export(GeomEnvelope)
+export(StatAreaBar)
 export(StatEnvelope)
 export(envelope_fig)
 export(geom_area_bar)
