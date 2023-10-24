@@ -25,7 +25,7 @@ geom_envelope <- function(mapping = NULL, data = NULL, stat = "identity",
 #' @usage NULL
 #' @export
 GeomEnvelope <- ggproto("GeomEnvelope", GeomRibbon,
-                    default_aes = aes(colour = NA, fill = "grey20", size = 0.5, linetype = 1,
+                    default_aes = aes(colour = NA, fill = "grey20", linewidth = 0.5, linetype = 1,
                                       alpha = 0.2),
                     
                     required_aes = c("x", "ymin", "ymax")
@@ -51,16 +51,18 @@ stat_envelope <- function(mapping = NULL, data = NULL, geom = "ribbon",
 
 #' @export
 StatEnvelope <- ggproto("StatEnvelope", Stat,
-                        compute_group = function(data, scales) {
-                          data %>%
-                            group_by(x) %>%
-                            summarize(
-                              ymin = min(y),
-                              ymax = max(y)
-                            )
-                        },
-                        required_aes = c("x", "y")
-                        )
+  compute_group = function(data, scales) {
+    data %>%
+      group_by(x) %>%
+      summarize(
+        ymin = min(y),
+        ymax = max(y),
+        .groups = "drop"
+      )
+  },
+  required_aes = c("x", "y"),
+  dropped_aes = c("y")
+)
 
 
 

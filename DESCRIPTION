@@ -1,6 +1,6 @@
 Package: jplots
 Title: Some Little Plots
-Version: 0.0.0.9000
+Version: 0.0.0.9001
 Authors@R: 
     person(given = "Jameel",
            family = "Alsalam",
@@ -12,13 +12,13 @@ License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
-RoxygenNote: 7.1.2
+RoxygenNote: 7.2.3
 Depends:
     R (>= 3.1.0)
 Imports: 
     magrittr,
     rlang,
-    ggplot2,
+    ggplot2 (>= 3.4.0),
     dplyr
 Suggests: 
     testthat (>= 2.1.0)

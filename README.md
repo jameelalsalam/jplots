@@ -4,7 +4,6 @@
 # jplots
 
 <!-- badges: start -->
-
 <!-- badges: end -->
 
 The goal of jplots is to provide some customized plot functions.
@@ -23,8 +22,8 @@ devtools::install_github("jameelalsalam/jplots")
 
 The function `geom_area_bar` constructs variable-width bars. Unlike the
 `width` parameter to `geom_bar`, this treats the x-axis as a numeric
-scale. For this reason there is no gap between the area\_bars (as the
-gap would create offset on x-axis scale).
+scale. For this reason there is no gap between the area_bars (as the gap
+would create offset on x-axis scale).
 
 ``` r
 suppressPackageStartupMessages(library(ggplot2))
